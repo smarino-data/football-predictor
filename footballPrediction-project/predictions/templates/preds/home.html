@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+{% load static %}
+    <head>
+        <title>Football Predictor</title>
+        <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    </head>
+
+    <body>
+        {% load crispy_forms_tags %}
+        <section class="py-5 text-center container">
+            <div class="row py-lg-5">
+              <div class="col-lg-6 col-md-8 mx-auto">
+                <h1 class="fw-light">Welcome to Football Predictor</h1>
+                <p class="lead text-muted">Select a fixture Date and see predictions for selected matches.</p>
+              </div>
+            </div>
+        </section>
+        <div class="b-example-divider"></div>
+        <div class="py-5 text-center container">
+            <h3>Select Fixture Date</h3>
+            <form action="{% url 'home' %}" method="post">
+                {% csrf_token %}
+                {{ matchesform|crispy }}
+                <input type="submit" value="Get Matches">
+            </form>
+            <h5>{{ note }}</h5>
+        </div>
+        
+
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+        <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    </body>
+</html>

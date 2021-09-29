@@ -1,0 +1,553 @@
+,match_date,competition,home_team,away_team
+0,2021-08-06,Championship,AFC Bournemouth,West Bromwich Albion FC
+1,2021-08-07,Championship,Cardiff City FC,Barnsley FC
+2,2021-08-07,Championship,Blackburn Rovers FC,Swansea City AFC
+3,2021-08-07,Championship,Stoke City FC,Reading FC
+4,2021-08-07,Championship,Queens Park Rangers FC,Millwall FC
+5,2021-08-07,Championship,Luton Town FC,Peterborough United FC
+6,2021-08-07,Championship,Derby County FC,Huddersfield Town AFC
+7,2021-08-07,Championship,Bristol City FC,Blackpool FC
+8,2021-08-07,Championship,Preston North End FC,Hull City AFC
+9,2021-08-07,Championship,Sheffield United FC,Birmingham City FC
+10,2021-08-08,Championship,Fulham FC,Middlesbrough FC
+11,2021-08-08,Championship,Coventry City FC,Nottingham Forest FC
+12,2021-08-14,Championship,Peterborough United FC,Derby County FC
+13,2021-08-14,Championship,Blackpool FC,Cardiff City FC
+14,2021-08-14,Championship,West Bromwich Albion FC,Luton Town FC
+15,2021-08-14,Championship,Reading FC,Preston North End FC
+16,2021-08-14,Championship,Nottingham Forest FC,AFC Bournemouth
+17,2021-08-14,Championship,Millwall FC,Blackburn Rovers FC
+18,2021-08-14,Championship,Middlesbrough FC,Bristol City FC
+19,2021-08-14,Championship,Hull City AFC,Queens Park Rangers FC
+20,2021-08-14,Championship,Huddersfield Town AFC,Fulham FC
+21,2021-08-14,Championship,Birmingham City FC,Stoke City FC
+22,2021-08-14,Championship,Barnsley FC,Coventry City FC
+23,2021-08-14,Championship,Swansea City AFC,Sheffield United FC
+24,2021-08-17,Championship,Swansea City AFC,Stoke City FC
+25,2021-08-17,Championship,Peterborough United FC,Cardiff City FC
+26,2021-08-17,Championship,Millwall FC,Fulham FC
+27,2021-08-17,Championship,Huddersfield Town AFC,Preston North End FC
+28,2021-08-17,Championship,Blackpool FC,Coventry City FC
+29,2021-08-17,Championship,Barnsley FC,Luton Town FC
+30,2021-08-17,Championship,Reading FC,Bristol City FC
+31,2021-08-18,Championship,Nottingham Forest FC,Blackburn Rovers FC
+32,2021-08-18,Championship,Middlesbrough FC,Queens Park Rangers FC
+33,2021-08-18,Championship,Hull City AFC,Derby County FC
+34,2021-08-18,Championship,Birmingham City FC,AFC Bournemouth
+35,2021-08-18,Championship,West Bromwich Albion FC,Sheffield United FC
+36,2021-08-20,Championship,Bristol City FC,Swansea City AFC
+37,2021-08-21,Championship,Queens Park Rangers FC,Barnsley FC
+38,2021-08-21,Championship,Fulham FC,Hull City AFC
+39,2021-08-21,Championship,Derby County FC,Middlesbrough FC
+40,2021-08-21,Championship,Coventry City FC,Reading FC
+41,2021-08-21,Championship,AFC Bournemouth,Blackpool FC
+42,2021-08-21,Championship,Blackburn Rovers FC,West Bromwich Albion FC
+43,2021-08-21,Championship,Cardiff City FC,Millwall FC
+44,2021-08-21,Championship,Stoke City FC,Nottingham Forest FC
+45,2021-08-21,Championship,Sheffield United FC,Huddersfield Town AFC
+46,2021-08-21,Championship,Preston North End FC,Peterborough United FC
+47,2021-08-21,Championship,Luton Town FC,Birmingham City FC
+48,2021-08-28,Championship,Cardiff City FC,Bristol City FC
+49,2021-08-28,Championship,Derby County FC,Nottingham Forest FC
+50,2021-08-28,Championship,Preston North End FC,Swansea City AFC
+51,2021-08-28,Championship,Queens Park Rangers FC,Coventry City FC
+52,2021-08-28,Championship,Millwall FC,Blackpool FC
+53,2021-08-28,Championship,Middlesbrough FC,Blackburn Rovers FC
+54,2021-08-28,Championship,Luton Town FC,Sheffield United FC
+55,2021-08-28,Championship,Hull City AFC,AFC Bournemouth
+56,2021-08-28,Championship,Huddersfield Town AFC,Reading FC
+57,2021-08-28,Championship,Fulham FC,Stoke City FC
+58,2021-08-28,Championship,Barnsley FC,Birmingham City FC
+59,2021-08-28,Championship,Peterborough United FC,West Bromwich Albion FC
+60,2021-09-10,Championship,Birmingham City FC,Derby County FC
+61,2021-09-11,Championship,Swansea City AFC,Hull City AFC
+62,2021-09-11,Championship,West Bromwich Albion FC,Millwall FC
+63,2021-09-11,Championship,Stoke City FC,Huddersfield Town AFC
+64,2021-09-11,Championship,Sheffield United FC,Peterborough United FC
+65,2021-09-11,Championship,Reading FC,Queens Park Rangers FC
+66,2021-09-11,Championship,Coventry City FC,Middlesbrough FC
+67,2021-09-11,Championship,Bristol City FC,Preston North End FC
+68,2021-09-11,Championship,AFC Bournemouth,Barnsley FC
+69,2021-09-11,Championship,Blackpool FC,Fulham FC
+70,2021-09-11,Championship,Blackburn Rovers FC,Luton Town FC
+71,2021-09-12,Championship,Nottingham Forest FC,Cardiff City FC
+72,2021-09-14,Championship,Sheffield United FC,Preston North End FC
+73,2021-09-14,Championship,AFC Bournemouth,Queens Park Rangers FC
+74,2021-09-14,Championship,Blackpool FC,Huddersfield Town AFC
+75,2021-09-14,Championship,Blackburn Rovers FC,Hull City AFC
+76,2021-09-14,Championship,West Bromwich Albion FC,Derby County FC
+77,2021-09-14,Championship,Reading FC,Peterborough United FC
+78,2021-09-15,Championship,Stoke City FC,Barnsley FC
+79,2021-09-15,Championship,Swansea City AFC,Millwall FC
+80,2021-09-15,Championship,Coventry City FC,Cardiff City FC
+81,2021-09-15,Championship,Nottingham Forest FC,Middlesbrough FC
+82,2021-09-15,Championship,Bristol City FC,Luton Town FC
+83,2021-09-15,Championship,Birmingham City FC,Fulham FC
+84,2021-09-18,Championship,Hull City AFC,Sheffield United FC
+85,2021-09-18,Championship,Luton Town FC,Swansea City AFC
+86,2021-09-18,Championship,Cardiff City FC,AFC Bournemouth
+87,2021-09-18,Championship,Queens Park Rangers FC,Bristol City FC
+88,2021-09-18,Championship,Preston North End FC,West Bromwich Albion FC
+89,2021-09-18,Championship,Peterborough United FC,Birmingham City FC
+90,2021-09-18,Championship,Millwall FC,Coventry City FC
+91,2021-09-18,Championship,Middlesbrough FC,Blackpool FC
+92,2021-09-18,Championship,Huddersfield Town AFC,Nottingham Forest FC
+93,2021-09-18,Championship,Fulham FC,Reading FC
+94,2021-09-18,Championship,Derby County FC,Stoke City FC
+95,2021-09-18,Championship,Barnsley FC,Blackburn Rovers FC
+96,2021-09-24,Championship,Coventry City FC,Peterborough United FC
+97,2021-09-24,Championship,West Bromwich Albion FC,Queens Park Rangers FC
+98,2021-09-25,Championship,Reading FC,Middlesbrough FC
+99,2021-09-25,Championship,Swansea City AFC,Huddersfield Town AFC
+100,2021-09-25,Championship,Blackburn Rovers FC,Cardiff City FC
+101,2021-09-25,Championship,Stoke City FC,Hull City AFC
+102,2021-09-25,Championship,Sheffield United FC,Derby County FC
+103,2021-09-25,Championship,Nottingham Forest FC,Millwall FC
+104,2021-09-25,Championship,Bristol City FC,Fulham FC
+105,2021-09-25,Championship,AFC Bournemouth,Luton Town FC
+106,2021-09-25,Championship,Blackpool FC,Barnsley FC
+107,2021-09-25,Championship,Birmingham City FC,Preston North End FC
+108,2021-09-28,Championship,Cardiff City FC,West Bromwich Albion FC
+109,2021-09-28,Championship,Queens Park Rangers FC,Birmingham City FC
+110,2021-09-28,Championship,Preston North End FC,Stoke City FC
+111,2021-09-28,Championship,Middlesbrough FC,Sheffield United FC
+112,2021-09-28,Championship,Hull City AFC,Blackpool FC
+113,2021-09-28,Championship,Huddersfield Town AFC,Blackburn Rovers FC
+114,2021-09-29,Championship,Fulham FC,Swansea City AFC
+115,2021-09-29,Championship,Peterborough United FC,AFC Bournemouth
+116,2021-09-29,Championship,Millwall FC,Bristol City FC
+117,2021-09-29,Championship,Luton Town FC,Coventry City FC
+118,2021-09-29,Championship,Derby County FC,Reading FC
+119,2021-09-29,Championship,Barnsley FC,Nottingham Forest FC
+120,2021-10-02,Championship,Derby County FC,Swansea City AFC
+121,2021-10-02,Championship,Cardiff City FC,Reading FC
+122,2021-10-02,Championship,Stoke City FC,West Bromwich Albion FC
+123,2021-10-02,Championship,Queens Park Rangers FC,Preston North End FC
+124,2021-10-02,Championship,Peterborough United FC,Bristol City FC
+125,2021-10-02,Championship,Luton Town FC,Huddersfield Town AFC
+126,2021-10-02,Championship,Hull City AFC,Middlesbrough FC
+127,2021-10-02,Championship,Coventry City FC,Fulham FC
+128,2021-10-02,Championship,AFC Bournemouth,Sheffield United FC
+129,2021-10-02,Championship,Blackpool FC,Blackburn Rovers FC
+130,2021-10-02,Championship,Birmingham City FC,Nottingham Forest FC
+131,2021-10-02,Championship,Barnsley FC,Millwall FC
+132,2021-10-16,Championship,Swansea City AFC,Cardiff City FC
+133,2021-10-16,Championship,West Bromwich Albion FC,Birmingham City FC
+134,2021-10-16,Championship,Sheffield United FC,Stoke City FC
+135,2021-10-16,Championship,Reading FC,Barnsley FC
+136,2021-10-16,Championship,Preston North End FC,Derby County FC
+137,2021-10-16,Championship,Nottingham Forest FC,Blackpool FC
+138,2021-10-16,Championship,Millwall FC,Luton Town FC
+139,2021-10-16,Championship,Middlesbrough FC,Peterborough United FC
+140,2021-10-16,Championship,Huddersfield Town AFC,Hull City AFC
+141,2021-10-16,Championship,Fulham FC,Queens Park Rangers FC
+142,2021-10-16,Championship,Bristol City FC,AFC Bournemouth
+143,2021-10-16,Championship,Blackburn Rovers FC,Coventry City FC
+144,2021-10-19,Championship,Stoke City FC,AFC Bournemouth
+145,2021-10-19,Championship,Fulham FC,Cardiff City FC
+146,2021-10-19,Championship,Sheffield United FC,Millwall FC
+147,2021-10-19,Championship,Queens Park Rangers FC,Blackburn Rovers FC
+148,2021-10-19,Championship,Derby County FC,Luton Town FC
+149,2021-10-19,Championship,Bristol City FC,Nottingham Forest FC
+150,2021-10-20,Championship,Swansea City AFC,West Bromwich Albion FC
+151,2021-10-20,Championship,Preston North End FC,Coventry City FC
+152,2021-10-20,Championship,Middlesbrough FC,Barnsley FC
+153,2021-10-20,Championship,Hull City AFC,Peterborough United FC
+154,2021-10-20,Championship,Huddersfield Town AFC,Birmingham City FC
+155,2021-10-20,Championship,Reading FC,Blackpool FC
+156,2021-10-23,Championship,Cardiff City FC,Middlesbrough FC
+157,2021-10-23,Championship,Birmingham City FC,Swansea City AFC
+158,2021-10-23,Championship,West Bromwich Albion FC,Bristol City FC
+159,2021-10-23,Championship,Peterborough United FC,Queens Park Rangers FC
+160,2021-10-23,Championship,Nottingham Forest FC,Fulham FC
+161,2021-10-23,Championship,Millwall FC,Stoke City FC
+162,2021-10-23,Championship,Luton Town FC,Hull City AFC
+163,2021-10-23,Championship,Coventry City FC,Derby County FC
+164,2021-10-23,Championship,AFC Bournemouth,Huddersfield Town AFC
+165,2021-10-23,Championship,Blackpool FC,Preston North End FC
+166,2021-10-23,Championship,Blackburn Rovers FC,Reading FC
+167,2021-10-23,Championship,Barnsley FC,Sheffield United FC
+168,2021-10-30,Championship,Swansea City AFC,Peterborough United FC
+169,2021-10-30,Championship,Stoke City FC,Cardiff City FC
+170,2021-10-30,Championship,Sheffield United FC,Blackpool FC
+171,2021-10-30,Championship,Reading FC,AFC Bournemouth
+172,2021-10-30,Championship,Queens Park Rangers FC,Nottingham Forest FC
+173,2021-10-30,Championship,Preston North End FC,Luton Town FC
+174,2021-10-30,Championship,Middlesbrough FC,Birmingham City FC
+175,2021-10-30,Championship,Hull City AFC,Coventry City FC
+176,2021-10-30,Championship,Huddersfield Town AFC,Millwall FC
+177,2021-10-30,Championship,Fulham FC,West Bromwich Albion FC
+178,2021-10-30,Championship,Derby County FC,Blackburn Rovers FC
+179,2021-10-30,Championship,Bristol City FC,Barnsley FC
+180,2021-11-02,Championship,Coventry City FC,Swansea City AFC
+181,2021-11-02,Championship,Peterborough United FC,Huddersfield Town AFC
+182,2021-11-02,Championship,Nottingham Forest FC,Sheffield United FC
+183,2021-11-02,Championship,Millwall FC,Reading FC
+184,2021-11-02,Championship,Luton Town FC,Middlesbrough FC
+185,2021-11-02,Championship,Birmingham City FC,Bristol City FC
+186,2021-11-03,Championship,Cardiff City FC,Queens Park Rangers FC
+187,2021-11-03,Championship,AFC Bournemouth,Preston North End FC
+188,2021-11-03,Championship,Blackpool FC,Stoke City FC
+189,2021-11-03,Championship,Barnsley FC,Derby County FC
+190,2021-11-03,Championship,Blackburn Rovers FC,Fulham FC
+191,2021-11-03,Championship,West Bromwich Albion FC,Hull City AFC
+192,2021-11-06,Championship,Cardiff City FC,Huddersfield Town AFC
+193,2021-11-06,Championship,AFC Bournemouth,Swansea City AFC
+194,2021-11-06,Championship,West Bromwich Albion FC,Middlesbrough FC
+195,2021-11-06,Championship,Peterborough United FC,Fulham FC
+196,2021-11-06,Championship,Nottingham Forest FC,Preston North End FC
+197,2021-11-06,Championship,Millwall FC,Derby County FC
+198,2021-11-06,Championship,Luton Town FC,Stoke City FC
+199,2021-11-06,Championship,Coventry City FC,Bristol City FC
+200,2021-11-06,Championship,Blackpool FC,Queens Park Rangers FC
+201,2021-11-06,Championship,Blackburn Rovers FC,Sheffield United FC
+202,2021-11-06,Championship,Birmingham City FC,Reading FC
+203,2021-11-06,Championship,Barnsley FC,Hull City AFC
+204,2021-11-20,Championship,Swansea City AFC,Blackpool FC
+205,2021-11-20,Championship,Preston North End FC,Cardiff City FC
+206,2021-11-20,Championship,Stoke City FC,Peterborough United FC
+207,2021-11-20,Championship,Sheffield United FC,Coventry City FC
+208,2021-11-20,Championship,Reading FC,Nottingham Forest FC
+209,2021-11-20,Championship,Queens Park Rangers FC,Luton Town FC
+210,2021-11-20,Championship,Middlesbrough FC,Millwall FC
+211,2021-11-20,Championship,Hull City AFC,Birmingham City FC
+212,2021-11-20,Championship,Huddersfield Town AFC,West Bromwich Albion FC
+213,2021-11-20,Championship,Fulham FC,Barnsley FC
+214,2021-11-20,Championship,Derby County FC,AFC Bournemouth
+215,2021-11-20,Championship,Bristol City FC,Blackburn Rovers FC
+216,2021-11-23,Championship,Nottingham Forest FC,Luton Town FC
+217,2021-11-23,Championship,Middlesbrough FC,Preston North End FC
+218,2021-11-23,Championship,Fulham FC,Derby County FC
+219,2021-11-23,Championship,Coventry City FC,Birmingham City FC
+220,2021-11-23,Championship,Blackpool FC,West Bromwich Albion FC
+221,2021-11-23,Championship,Reading FC,Sheffield United FC
+222,2021-11-24,Championship,Cardiff City FC,Hull City AFC
+223,2021-11-24,Championship,Barnsley FC,Swansea City AFC
+224,2021-11-24,Championship,Queens Park Rangers FC,Huddersfield Town AFC
+225,2021-11-24,Championship,Millwall FC,AFC Bournemouth
+226,2021-11-24,Championship,Bristol City FC,Stoke City FC
+227,2021-11-24,Championship,Blackburn Rovers FC,Peterborough United FC
+228,2021-11-27,Championship,Swansea City AFC,Reading FC
+229,2021-11-27,Championship,Luton Town FC,Cardiff City FC
+230,2021-11-27,Championship,West Bromwich Albion FC,Nottingham Forest FC
+231,2021-11-27,Championship,Stoke City FC,Blackburn Rovers FC
+232,2021-11-27,Championship,Preston North End FC,Fulham FC
+233,2021-11-27,Championship,Peterborough United FC,Barnsley FC
+234,2021-11-27,Championship,Hull City AFC,Millwall FC
+235,2021-11-27,Championship,Huddersfield Town AFC,Middlesbrough FC
+236,2021-11-27,Championship,Derby County FC,Queens Park Rangers FC
+237,2021-11-27,Championship,AFC Bournemouth,Coventry City FC
+238,2021-11-27,Championship,Birmingham City FC,Blackpool FC
+239,2021-11-28,Championship,Sheffield United FC,Bristol City FC
+240,2021-12-04,Championship,Middlesbrough FC,Swansea City AFC
+241,2021-12-04,Championship,Cardiff City FC,Sheffield United FC
+242,2021-12-04,Championship,Reading FC,Hull City AFC
+243,2021-12-04,Championship,Queens Park Rangers FC,Stoke City FC
+244,2021-12-04,Championship,Nottingham Forest FC,Peterborough United FC
+245,2021-12-04,Championship,Millwall FC,Birmingham City FC
+246,2021-12-04,Championship,Fulham FC,AFC Bournemouth
+247,2021-12-04,Championship,Coventry City FC,West Bromwich Albion FC
+248,2021-12-04,Championship,Bristol City FC,Derby County FC
+249,2021-12-04,Championship,Blackpool FC,Luton Town FC
+250,2021-12-04,Championship,Blackburn Rovers FC,Preston North End FC
+251,2021-12-04,Championship,Barnsley FC,Huddersfield Town AFC
+252,2021-12-11,Championship,Swansea City AFC,Nottingham Forest FC
+253,2021-12-11,Championship,Birmingham City FC,Cardiff City FC
+254,2021-12-11,Championship,West Bromwich Albion FC,Reading FC
+255,2021-12-11,Championship,Stoke City FC,Middlesbrough FC
+256,2021-12-11,Championship,Sheffield United FC,Queens Park Rangers FC
+257,2021-12-11,Championship,Preston North End FC,Barnsley FC
+258,2021-12-11,Championship,Peterborough United FC,Millwall FC
+259,2021-12-11,Championship,Luton Town FC,Fulham FC
+260,2021-12-11,Championship,Hull City AFC,Bristol City FC
+261,2021-12-11,Championship,Huddersfield Town AFC,Coventry City FC
+262,2021-12-11,Championship,Derby County FC,Blackpool FC
+263,2021-12-11,Championship,AFC Bournemouth,Blackburn Rovers FC
+264,2021-12-18,Championship,Queens Park Rangers FC,Swansea City AFC
+265,2021-12-18,Championship,Cardiff City FC,Derby County FC
+266,2021-12-18,Championship,Reading FC,Luton Town FC
+267,2021-12-18,Championship,Nottingham Forest FC,Hull City AFC
+268,2021-12-18,Championship,Millwall FC,Preston North End FC
+269,2021-12-18,Championship,Middlesbrough FC,AFC Bournemouth
+270,2021-12-18,Championship,Fulham FC,Sheffield United FC
+271,2021-12-18,Championship,Coventry City FC,Stoke City FC
+272,2021-12-18,Championship,Bristol City FC,Huddersfield Town AFC
+273,2021-12-18,Championship,Blackpool FC,Peterborough United FC
+274,2021-12-18,Championship,Blackburn Rovers FC,Birmingham City FC
+275,2021-12-18,Championship,Barnsley FC,West Bromwich Albion FC
+276,2021-12-26,Championship,Millwall FC,Swansea City AFC
+277,2021-12-26,Championship,Cardiff City FC,Coventry City FC
+278,2021-12-26,Championship,Queens Park Rangers FC,AFC Bournemouth
+279,2021-12-26,Championship,Preston North End FC,Sheffield United FC
+280,2021-12-26,Championship,Peterborough United FC,Reading FC
+281,2021-12-26,Championship,Middlesbrough FC,Nottingham Forest FC
+282,2021-12-26,Championship,Luton Town FC,Bristol City FC
+283,2021-12-26,Championship,Hull City AFC,Blackburn Rovers FC
+284,2021-12-26,Championship,Huddersfield Town AFC,Blackpool FC
+285,2021-12-26,Championship,Fulham FC,Birmingham City FC
+286,2021-12-26,Championship,Derby County FC,West Bromwich Albion FC
+287,2021-12-26,Championship,Barnsley FC,Stoke City FC
+288,2021-12-29,Championship,Swansea City AFC,Luton Town FC
+289,2021-12-29,Championship,AFC Bournemouth,Cardiff City FC
+290,2021-12-29,Championship,Sheffield United FC,Hull City AFC
+291,2021-12-29,Championship,Nottingham Forest FC,Huddersfield Town AFC
+292,2021-12-29,Championship,Coventry City FC,Millwall FC
+293,2021-12-29,Championship,Bristol City FC,Queens Park Rangers FC
+294,2021-12-29,Championship,Blackpool FC,Middlesbrough FC
+295,2021-12-29,Championship,Blackburn Rovers FC,Barnsley FC
+296,2021-12-29,Championship,Birmingham City FC,Peterborough United FC
+297,2021-12-29,Championship,Stoke City FC,Derby County FC
+298,2021-12-29,Championship,West Bromwich Albion FC,Preston North End FC
+299,2021-12-29,Championship,Reading FC,Fulham FC
+300,2022-01-01,Championship,West Bromwich Albion FC,Cardiff City FC
+301,2022-01-01,Championship,Swansea City AFC,Fulham FC
+302,2022-01-01,Championship,Stoke City FC,Preston North End FC
+303,2022-01-01,Championship,Sheffield United FC,Middlesbrough FC
+304,2022-01-01,Championship,Reading FC,Derby County FC
+305,2022-01-01,Championship,Nottingham Forest FC,Barnsley FC
+306,2022-01-01,Championship,Coventry City FC,Luton Town FC
+307,2022-01-01,Championship,AFC Bournemouth,Peterborough United FC
+308,2022-01-01,Championship,Blackpool FC,Hull City AFC
+309,2022-01-01,Championship,Blackburn Rovers FC,Huddersfield Town AFC
+310,2022-01-01,Championship,Birmingham City FC,Queens Park Rangers FC
+311,2022-01-02,Championship,Bristol City FC,Millwall FC
+312,2022-01-15,Championship,Huddersfield Town AFC,Swansea City AFC
+313,2022-01-15,Championship,Cardiff City FC,Blackburn Rovers FC
+314,2022-01-15,Championship,Queens Park Rangers FC,West Bromwich Albion FC
+315,2022-01-15,Championship,Preston North End FC,Birmingham City FC
+316,2022-01-15,Championship,Peterborough United FC,Coventry City FC
+317,2022-01-15,Championship,Millwall FC,Nottingham Forest FC
+318,2022-01-15,Championship,Middlesbrough FC,Reading FC
+319,2022-01-15,Championship,Luton Town FC,AFC Bournemouth
+320,2022-01-15,Championship,Hull City AFC,Stoke City FC
+321,2022-01-15,Championship,Fulham FC,Bristol City FC
+322,2022-01-15,Championship,Derby County FC,Sheffield United FC
+323,2022-01-15,Championship,Barnsley FC,Blackpool FC
+324,2022-01-22,Championship,Bristol City FC,Cardiff City FC
+325,2022-01-22,Championship,Nottingham Forest FC,Derby County FC
+326,2022-01-22,Championship,Swansea City AFC,Preston North End FC
+327,2022-01-22,Championship,West Bromwich Albion FC,Peterborough United FC
+328,2022-01-22,Championship,Stoke City FC,Fulham FC
+329,2022-01-22,Championship,Sheffield United FC,Luton Town FC
+330,2022-01-22,Championship,Reading FC,Huddersfield Town AFC
+331,2022-01-22,Championship,Coventry City FC,Queens Park Rangers FC
+332,2022-01-22,Championship,AFC Bournemouth,Hull City AFC
+333,2022-01-22,Championship,Blackpool FC,Millwall FC
+334,2022-01-22,Championship,Blackburn Rovers FC,Middlesbrough FC
+335,2022-01-22,Championship,Birmingham City FC,Barnsley FC
+336,2022-01-29,Championship,Hull City AFC,Swansea City AFC
+337,2022-01-29,Championship,Cardiff City FC,Nottingham Forest FC
+338,2022-01-29,Championship,Queens Park Rangers FC,Reading FC
+339,2022-01-29,Championship,Preston North End FC,Bristol City FC
+340,2022-01-29,Championship,Peterborough United FC,Sheffield United FC
+341,2022-01-29,Championship,Millwall FC,West Bromwich Albion FC
+342,2022-01-29,Championship,Middlesbrough FC,Coventry City FC
+343,2022-01-29,Championship,Luton Town FC,Blackburn Rovers FC
+344,2022-01-29,Championship,Huddersfield Town AFC,Stoke City FC
+345,2022-01-29,Championship,Fulham FC,Blackpool FC
+346,2022-01-29,Championship,Derby County FC,Birmingham City FC
+347,2022-01-29,Championship,Barnsley FC,AFC Bournemouth
+348,2022-02-05,Championship,Swansea City AFC,Blackburn Rovers FC
+349,2022-02-05,Championship,Barnsley FC,Cardiff City FC
+350,2022-02-05,Championship,West Bromwich Albion FC,AFC Bournemouth
+351,2022-02-05,Championship,Reading FC,Stoke City FC
+352,2022-02-05,Championship,Peterborough United FC,Luton Town FC
+353,2022-02-05,Championship,Nottingham Forest FC,Coventry City FC
+354,2022-02-05,Championship,Millwall FC,Queens Park Rangers FC
+355,2022-02-05,Championship,Middlesbrough FC,Fulham FC
+356,2022-02-05,Championship,Hull City AFC,Preston North End FC
+357,2022-02-05,Championship,Huddersfield Town AFC,Derby County FC
+358,2022-02-05,Championship,Blackpool FC,Bristol City FC
+359,2022-02-05,Championship,Birmingham City FC,Sheffield United FC
+360,2022-02-08,Championship,Stoke City FC,Swansea City AFC
+361,2022-02-08,Championship,Cardiff City FC,Peterborough United FC
+362,2022-02-08,Championship,Luton Town FC,Barnsley FC
+363,2022-02-08,Championship,Fulham FC,Millwall FC
+364,2022-02-08,Championship,Derby County FC,Hull City AFC
+365,2022-02-08,Championship,Coventry City FC,Blackpool FC
+366,2022-02-09,Championship,Sheffield United FC,West Bromwich Albion FC
+367,2022-02-09,Championship,Queens Park Rangers FC,Middlesbrough FC
+368,2022-02-09,Championship,Preston North End FC,Huddersfield Town AFC
+369,2022-02-09,Championship,Bristol City FC,Reading FC
+370,2022-02-09,Championship,AFC Bournemouth,Birmingham City FC
+371,2022-02-09,Championship,Blackburn Rovers FC,Nottingham Forest FC
+372,2022-02-12,Championship,Swansea City AFC,Bristol City FC
+373,2022-02-12,Championship,Millwall FC,Cardiff City FC
+374,2022-02-12,Championship,West Bromwich Albion FC,Blackburn Rovers FC
+375,2022-02-12,Championship,Reading FC,Coventry City FC
+376,2022-02-12,Championship,Peterborough United FC,Preston North End FC
+377,2022-02-12,Championship,Nottingham Forest FC,Stoke City FC
+378,2022-02-12,Championship,Middlesbrough FC,Derby County FC
+379,2022-02-12,Championship,Hull City AFC,Fulham FC
+380,2022-02-12,Championship,Huddersfield Town AFC,Sheffield United FC
+381,2022-02-12,Championship,Blackpool FC,AFC Bournemouth
+382,2022-02-12,Championship,Birmingham City FC,Luton Town FC
+383,2022-02-12,Championship,Barnsley FC,Queens Park Rangers FC
+384,2022-02-19,Championship,Sheffield United FC,Swansea City AFC
+385,2022-02-19,Championship,Cardiff City FC,Blackpool FC
+386,2022-02-19,Championship,Stoke City FC,Birmingham City FC
+387,2022-02-19,Championship,Queens Park Rangers FC,Hull City AFC
+388,2022-02-19,Championship,Preston North End FC,Reading FC
+389,2022-02-19,Championship,Luton Town FC,West Bromwich Albion FC
+390,2022-02-19,Championship,Fulham FC,Huddersfield Town AFC
+391,2022-02-19,Championship,Derby County FC,Peterborough United FC
+392,2022-02-19,Championship,Coventry City FC,Barnsley FC
+393,2022-02-19,Championship,Bristol City FC,Middlesbrough FC
+394,2022-02-19,Championship,AFC Bournemouth,Nottingham Forest FC
+395,2022-02-19,Championship,Blackburn Rovers FC,Millwall FC
+396,2022-02-22,Championship,Swansea City AFC,AFC Bournemouth
+397,2022-02-22,Championship,Preston North End FC,Nottingham Forest FC
+398,2022-02-22,Championship,Middlesbrough FC,West Bromwich Albion FC
+399,2022-02-22,Championship,Hull City AFC,Barnsley FC
+400,2022-02-22,Championship,Bristol City FC,Coventry City FC
+401,2022-02-22,Championship,Reading FC,Birmingham City FC
+402,2022-02-23,Championship,Stoke City FC,Luton Town FC
+403,2022-02-23,Championship,Huddersfield Town AFC,Cardiff City FC
+404,2022-02-23,Championship,Sheffield United FC,Blackburn Rovers FC
+405,2022-02-23,Championship,Queens Park Rangers FC,Blackpool FC
+406,2022-02-23,Championship,Fulham FC,Peterborough United FC
+407,2022-02-23,Championship,Derby County FC,Millwall FC
+408,2022-02-26,Championship,West Bromwich Albion FC,Swansea City AFC
+409,2022-02-26,Championship,Cardiff City FC,Fulham FC
+410,2022-02-26,Championship,Peterborough United FC,Hull City AFC
+411,2022-02-26,Championship,Nottingham Forest FC,Bristol City FC
+412,2022-02-26,Championship,Millwall FC,Sheffield United FC
+413,2022-02-26,Championship,Luton Town FC,Derby County FC
+414,2022-02-26,Championship,Coventry City FC,Preston North End FC
+415,2022-02-26,Championship,AFC Bournemouth,Stoke City FC
+416,2022-02-26,Championship,Blackpool FC,Reading FC
+417,2022-02-26,Championship,Blackburn Rovers FC,Queens Park Rangers FC
+418,2022-02-26,Championship,Birmingham City FC,Huddersfield Town AFC
+419,2022-02-26,Championship,Barnsley FC,Middlesbrough FC
+420,2022-03-05,Championship,Swansea City AFC,Coventry City FC
+421,2022-03-05,Championship,Queens Park Rangers FC,Cardiff City FC
+422,2022-03-05,Championship,Stoke City FC,Blackpool FC
+423,2022-03-05,Championship,Sheffield United FC,Nottingham Forest FC
+424,2022-03-05,Championship,Reading FC,Millwall FC
+425,2022-03-05,Championship,Preston North End FC,AFC Bournemouth
+426,2022-03-05,Championship,Middlesbrough FC,Luton Town FC
+427,2022-03-05,Championship,Hull City AFC,West Bromwich Albion FC
+428,2022-03-05,Championship,Huddersfield Town AFC,Peterborough United FC
+429,2022-03-05,Championship,Fulham FC,Blackburn Rovers FC
+430,2022-03-05,Championship,Derby County FC,Barnsley FC
+431,2022-03-05,Championship,Bristol City FC,Birmingham City FC
+432,2022-03-12,Championship,Cardiff City FC,Preston North End FC
+433,2022-03-12,Championship,Blackpool FC,Swansea City AFC
+434,2022-03-12,Championship,West Bromwich Albion FC,Huddersfield Town AFC
+435,2022-03-12,Championship,Peterborough United FC,Stoke City FC
+436,2022-03-12,Championship,Nottingham Forest FC,Reading FC
+437,2022-03-12,Championship,Millwall FC,Middlesbrough FC
+438,2022-03-12,Championship,Luton Town FC,Queens Park Rangers FC
+439,2022-03-12,Championship,Coventry City FC,Sheffield United FC
+440,2022-03-12,Championship,AFC Bournemouth,Derby County FC
+441,2022-03-12,Championship,Blackburn Rovers FC,Bristol City FC
+442,2022-03-12,Championship,Birmingham City FC,Hull City AFC
+443,2022-03-12,Championship,Barnsley FC,Fulham FC
+444,2022-03-15,Championship,Nottingham Forest FC,Queens Park Rangers FC
+445,2022-03-15,Championship,AFC Bournemouth,Reading FC
+446,2022-03-15,Championship,Blackburn Rovers FC,Derby County FC
+447,2022-03-15,Championship,Birmingham City FC,Middlesbrough FC
+448,2022-03-15,Championship,Barnsley FC,Bristol City FC
+449,2022-03-15,Championship,West Bromwich Albion FC,Fulham FC
+450,2022-03-16,Championship,Peterborough United FC,Swansea City AFC
+451,2022-03-16,Championship,Cardiff City FC,Stoke City FC
+452,2022-03-16,Championship,Millwall FC,Huddersfield Town AFC
+453,2022-03-16,Championship,Luton Town FC,Preston North End FC
+454,2022-03-16,Championship,Coventry City FC,Hull City AFC
+455,2022-03-16,Championship,Blackpool FC,Sheffield United FC
+456,2022-03-19,Championship,Swansea City AFC,Birmingham City FC
+457,2022-03-19,Championship,Middlesbrough FC,Cardiff City FC
+458,2022-03-19,Championship,Stoke City FC,Millwall FC
+459,2022-03-19,Championship,Sheffield United FC,Barnsley FC
+460,2022-03-19,Championship,Reading FC,Blackburn Rovers FC
+461,2022-03-19,Championship,Queens Park Rangers FC,Peterborough United FC
+462,2022-03-19,Championship,Preston North End FC,Blackpool FC
+463,2022-03-19,Championship,Hull City AFC,Luton Town FC
+464,2022-03-19,Championship,Huddersfield Town AFC,AFC Bournemouth
+465,2022-03-19,Championship,Fulham FC,Nottingham Forest FC
+466,2022-03-19,Championship,Derby County FC,Coventry City FC
+467,2022-03-19,Championship,Bristol City FC,West Bromwich Albion FC
+468,2022-04-02,Championship,Cardiff City FC,Swansea City AFC
+469,2022-04-02,Championship,Stoke City FC,Sheffield United FC
+470,2022-04-02,Championship,Queens Park Rangers FC,Fulham FC
+471,2022-04-02,Championship,Peterborough United FC,Middlesbrough FC
+472,2022-04-02,Championship,Luton Town FC,Millwall FC
+473,2022-04-02,Championship,Hull City AFC,Huddersfield Town AFC
+474,2022-04-02,Championship,Derby County FC,Preston North End FC
+475,2022-04-02,Championship,Coventry City FC,Blackburn Rovers FC
+476,2022-04-02,Championship,AFC Bournemouth,Bristol City FC
+477,2022-04-02,Championship,Blackpool FC,Nottingham Forest FC
+478,2022-04-02,Championship,Birmingham City FC,West Bromwich Albion FC
+479,2022-04-02,Championship,Barnsley FC,Reading FC
+480,2022-04-09,Championship,Swansea City AFC,Derby County FC
+481,2022-04-09,Championship,Reading FC,Cardiff City FC
+482,2022-04-09,Championship,West Bromwich Albion FC,Stoke City FC
+483,2022-04-09,Championship,Sheffield United FC,AFC Bournemouth
+484,2022-04-09,Championship,Preston North End FC,Queens Park Rangers FC
+485,2022-04-09,Championship,Nottingham Forest FC,Birmingham City FC
+486,2022-04-09,Championship,Millwall FC,Barnsley FC
+487,2022-04-09,Championship,Middlesbrough FC,Hull City AFC
+488,2022-04-09,Championship,Huddersfield Town AFC,Luton Town FC
+489,2022-04-09,Championship,Fulham FC,Coventry City FC
+490,2022-04-09,Championship,Bristol City FC,Peterborough United FC
+491,2022-04-09,Championship,Blackburn Rovers FC,Blackpool FC
+492,2022-04-15,Championship,Swansea City AFC,Barnsley FC
+493,2022-04-15,Championship,Hull City AFC,Cardiff City FC
+494,2022-04-15,Championship,West Bromwich Albion FC,Blackpool FC
+495,2022-04-15,Championship,Stoke City FC,Bristol City FC
+496,2022-04-15,Championship,Sheffield United FC,Reading FC
+497,2022-04-15,Championship,Preston North End FC,Millwall FC
+498,2022-04-15,Championship,Peterborough United FC,Blackburn Rovers FC
+499,2022-04-15,Championship,Luton Town FC,Nottingham Forest FC
+500,2022-04-15,Championship,Huddersfield Town AFC,Queens Park Rangers FC
+501,2022-04-15,Championship,Derby County FC,Fulham FC
+502,2022-04-15,Championship,AFC Bournemouth,Middlesbrough FC
+503,2022-04-15,Championship,Birmingham City FC,Coventry City FC
+504,2022-04-18,Championship,Reading FC,Swansea City AFC
+505,2022-04-18,Championship,Cardiff City FC,Luton Town FC
+506,2022-04-18,Championship,Queens Park Rangers FC,Derby County FC
+507,2022-04-18,Championship,Nottingham Forest FC,West Bromwich Albion FC
+508,2022-04-18,Championship,Millwall FC,Hull City AFC
+509,2022-04-18,Championship,Middlesbrough FC,Huddersfield Town AFC
+510,2022-04-18,Championship,Fulham FC,Preston North End FC
+511,2022-04-18,Championship,Coventry City FC,AFC Bournemouth
+512,2022-04-18,Championship,Bristol City FC,Sheffield United FC
+513,2022-04-18,Championship,Blackpool FC,Birmingham City FC
+514,2022-04-18,Championship,Blackburn Rovers FC,Stoke City FC
+515,2022-04-18,Championship,Barnsley FC,Peterborough United FC
+516,2022-04-23,Championship,Swansea City AFC,Middlesbrough FC
+517,2022-04-23,Championship,Sheffield United FC,Cardiff City FC
+518,2022-04-23,Championship,West Bromwich Albion FC,Coventry City FC
+519,2022-04-23,Championship,Stoke City FC,Queens Park Rangers FC
+520,2022-04-23,Championship,Preston North End FC,Blackburn Rovers FC
+521,2022-04-23,Championship,Peterborough United FC,Nottingham Forest FC
+522,2022-04-23,Championship,Luton Town FC,Blackpool FC
+523,2022-04-23,Championship,Hull City AFC,Reading FC
+524,2022-04-23,Championship,Huddersfield Town AFC,Barnsley FC
+525,2022-04-23,Championship,Derby County FC,Bristol City FC
+526,2022-04-23,Championship,AFC Bournemouth,Fulham FC
+527,2022-04-23,Championship,Birmingham City FC,Millwall FC
+528,2022-04-30,Championship,Nottingham Forest FC,Swansea City AFC
+529,2022-04-30,Championship,Cardiff City FC,Birmingham City FC
+530,2022-04-30,Championship,Reading FC,West Bromwich Albion FC
+531,2022-04-30,Championship,Queens Park Rangers FC,Sheffield United FC
+532,2022-04-30,Championship,Millwall FC,Peterborough United FC
+533,2022-04-30,Championship,Middlesbrough FC,Stoke City FC
+534,2022-04-30,Championship,Fulham FC,Luton Town FC
+535,2022-04-30,Championship,Coventry City FC,Huddersfield Town AFC
+536,2022-04-30,Championship,Bristol City FC,Hull City AFC
+537,2022-04-30,Championship,Blackpool FC,Derby County FC
+538,2022-04-30,Championship,Blackburn Rovers FC,AFC Bournemouth
+539,2022-04-30,Championship,Barnsley FC,Preston North End FC
+540,2022-05-07,Championship,Swansea City AFC,Queens Park Rangers FC
+541,2022-05-07,Championship,Derby County FC,Cardiff City FC
+542,2022-05-07,Championship,West Bromwich Albion FC,Barnsley FC
+543,2022-05-07,Championship,Stoke City FC,Coventry City FC
+544,2022-05-07,Championship,Sheffield United FC,Fulham FC
+545,2022-05-07,Championship,Preston North End FC,Middlesbrough FC
+546,2022-05-07,Championship,Peterborough United FC,Blackpool FC
+547,2022-05-07,Championship,Luton Town FC,Reading FC
+548,2022-05-07,Championship,Hull City AFC,Nottingham Forest FC
+549,2022-05-07,Championship,Huddersfield Town AFC,Bristol City FC
+550,2022-05-07,Championship,AFC Bournemouth,Millwall FC
+551,2022-05-07,Championship,Birmingham City FC,Blackburn Rovers FC

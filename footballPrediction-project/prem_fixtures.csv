@@ -1,0 +1,381 @@
+,match_date,competition,home_team,away_team
+0,2021-08-13,Premier League,Brentford FC,Arsenal FC
+1,2021-08-14,Premier League,Manchester United FC,Leeds United FC
+2,2021-08-14,Premier League,Watford FC,Aston Villa FC
+3,2021-08-14,Premier League,Leicester City FC,Wolverhampton Wanderers FC
+4,2021-08-14,Premier League,Everton FC,Southampton FC
+5,2021-08-14,Premier League,Chelsea FC,Crystal Palace FC
+6,2021-08-14,Premier League,Burnley FC,Brighton & Hove Albion FC
+7,2021-08-14,Premier League,Norwich City FC,Liverpool FC
+8,2021-08-15,Premier League,Newcastle United FC,West Ham United FC
+9,2021-08-15,Premier League,Tottenham Hotspur FC,Manchester City FC
+10,2021-08-21,Premier League,Liverpool FC,Burnley FC
+11,2021-08-21,Premier League,Manchester City FC,Norwich City FC
+12,2021-08-21,Premier League,Leeds United FC,Everton FC
+13,2021-08-21,Premier League,Crystal Palace FC,Brentford FC
+14,2021-08-21,Premier League,Aston Villa FC,Newcastle United FC
+15,2021-08-21,Premier League,Brighton & Hove Albion FC,Watford FC
+16,2021-08-22,Premier League,Wolverhampton Wanderers FC,Tottenham Hotspur FC
+17,2021-08-22,Premier League,Southampton FC,Manchester United FC
+18,2021-08-22,Premier League,Arsenal FC,Chelsea FC
+19,2021-08-23,Premier League,West Ham United FC,Leicester City FC
+20,2021-08-28,Premier League,Manchester City FC,Arsenal FC
+21,2021-08-28,Premier League,West Ham United FC,Crystal Palace FC
+22,2021-08-28,Premier League,Norwich City FC,Leicester City FC
+23,2021-08-28,Premier League,Newcastle United FC,Southampton FC
+24,2021-08-28,Premier League,Brighton & Hove Albion FC,Everton FC
+25,2021-08-28,Premier League,Aston Villa FC,Brentford FC
+26,2021-08-28,Premier League,Liverpool FC,Chelsea FC
+27,2021-08-29,Premier League,Tottenham Hotspur FC,Watford FC
+28,2021-08-29,Premier League,Burnley FC,Leeds United FC
+29,2021-08-29,Premier League,Wolverhampton Wanderers FC,Manchester United FC
+30,2021-09-11,Premier League,Crystal Palace FC,Tottenham Hotspur FC
+31,2021-09-11,Premier League,Watford FC,Wolverhampton Wanderers FC
+32,2021-09-11,Premier League,Southampton FC,West Ham United FC
+33,2021-09-11,Premier League,Manchester United FC,Newcastle United FC
+34,2021-09-11,Premier League,Leicester City FC,Manchester City FC
+35,2021-09-11,Premier League,Brentford FC,Brighton & Hove Albion FC
+36,2021-09-11,Premier League,Arsenal FC,Norwich City FC
+37,2021-09-11,Premier League,Chelsea FC,Aston Villa FC
+38,2021-09-12,Premier League,Leeds United FC,Liverpool FC
+39,2021-09-13,Premier League,Everton FC,Burnley FC
+40,2021-09-17,Premier League,Newcastle United FC,Leeds United FC
+41,2021-09-18,Premier League,Wolverhampton Wanderers FC,Brentford FC
+42,2021-09-18,Premier League,Norwich City FC,Watford FC
+43,2021-09-18,Premier League,Manchester City FC,Southampton FC
+44,2021-09-18,Premier League,Liverpool FC,Crystal Palace FC
+45,2021-09-18,Premier League,Burnley FC,Arsenal FC
+46,2021-09-18,Premier League,Aston Villa FC,Everton FC
+47,2021-09-19,Premier League,West Ham United FC,Manchester United FC
+48,2021-09-19,Premier League,Brighton & Hove Albion FC,Leicester City FC
+49,2021-09-19,Premier League,Tottenham Hotspur FC,Chelsea FC
+50,2021-09-25,Premier League,Chelsea FC,Manchester City FC
+51,2021-09-25,Premier League,Watford FC,Newcastle United FC
+52,2021-09-25,Premier League,Manchester United FC,Aston Villa FC
+53,2021-09-25,Premier League,Leicester City FC,Burnley FC
+54,2021-09-25,Premier League,Leeds United FC,West Ham United FC
+55,2021-09-25,Premier League,Everton FC,Norwich City FC
+56,2021-09-25,Premier League,Brentford FC,Liverpool FC
+57,2021-09-26,Premier League,Southampton FC,Wolverhampton Wanderers FC
+58,2021-09-26,Premier League,Arsenal FC,Tottenham Hotspur FC
+59,2021-09-27,Premier League,Crystal Palace FC,Brighton & Hove Albion FC
+60,2021-10-02,Premier League,Manchester United FC,Everton FC
+61,2021-10-02,Premier League,Wolverhampton Wanderers FC,Newcastle United FC
+62,2021-10-02,Premier League,Tottenham Hotspur FC,Aston Villa FC
+63,2021-10-02,Premier League,Leeds United FC,Watford FC
+64,2021-10-02,Premier League,Chelsea FC,Southampton FC
+65,2021-10-02,Premier League,Burnley FC,Norwich City FC
+66,2021-10-02,Premier League,Brighton & Hove Albion FC,Arsenal FC
+67,2021-10-03,Premier League,West Ham United FC,Brentford FC
+68,2021-10-03,Premier League,Crystal Palace FC,Leicester City FC
+69,2021-10-03,Premier League,Liverpool FC,Manchester City FC
+70,2021-10-16,Premier League,Watford FC,Liverpool FC
+71,2021-10-16,Premier League,Southampton FC,Leeds United FC
+72,2021-10-16,Premier League,Norwich City FC,Brighton & Hove Albion FC
+73,2021-10-16,Premier League,Manchester City FC,Burnley FC
+74,2021-10-16,Premier League,Leicester City FC,Manchester United FC
+75,2021-10-16,Premier League,Aston Villa FC,Wolverhampton Wanderers FC
+76,2021-10-16,Premier League,Brentford FC,Chelsea FC
+77,2021-10-17,Premier League,Everton FC,West Ham United FC
+78,2021-10-17,Premier League,Newcastle United FC,Tottenham Hotspur FC
+79,2021-10-18,Premier League,Arsenal FC,Crystal Palace FC
+80,2021-10-22,Premier League,Arsenal FC,Aston Villa FC
+81,2021-10-23,Premier League,Chelsea FC,Norwich City FC
+82,2021-10-23,Premier League,Southampton FC,Burnley FC
+83,2021-10-23,Premier League,Leeds United FC,Wolverhampton Wanderers FC
+84,2021-10-23,Premier League,Everton FC,Watford FC
+85,2021-10-23,Premier League,Crystal Palace FC,Newcastle United FC
+86,2021-10-23,Premier League,Brighton & Hove Albion FC,Manchester City FC
+87,2021-10-24,Premier League,West Ham United FC,Tottenham Hotspur FC
+88,2021-10-24,Premier League,Brentford FC,Leicester City FC
+89,2021-10-24,Premier League,Manchester United FC,Liverpool FC
+90,2021-10-30,Premier League,Leicester City FC,Arsenal FC
+91,2021-10-30,Premier League,Watford FC,Southampton FC
+92,2021-10-30,Premier League,Newcastle United FC,Chelsea FC
+93,2021-10-30,Premier League,Manchester City FC,Crystal Palace FC
+94,2021-10-30,Premier League,Liverpool FC,Brighton & Hove Albion FC
+95,2021-10-30,Premier League,Burnley FC,Brentford FC
+96,2021-10-30,Premier League,Tottenham Hotspur FC,Manchester United FC
+97,2021-10-31,Premier League,Norwich City FC,Leeds United FC
+98,2021-10-31,Premier League,Aston Villa FC,West Ham United FC
+99,2021-11-01,Premier League,Wolverhampton Wanderers FC,Everton FC
+100,2021-11-06,Premier League,West Ham United FC,Liverpool FC
+101,2021-11-06,Premier League,Southampton FC,Aston Villa FC
+102,2021-11-06,Premier League,Manchester United FC,Manchester City FC
+103,2021-11-06,Premier League,Leeds United FC,Leicester City FC
+104,2021-11-06,Premier League,Everton FC,Tottenham Hotspur FC
+105,2021-11-06,Premier League,Crystal Palace FC,Wolverhampton Wanderers FC
+106,2021-11-06,Premier League,Chelsea FC,Burnley FC
+107,2021-11-06,Premier League,Brighton & Hove Albion FC,Newcastle United FC
+108,2021-11-06,Premier League,Brentford FC,Norwich City FC
+109,2021-11-06,Premier League,Arsenal FC,Watford FC
+110,2021-11-20,Premier League,Wolverhampton Wanderers FC,West Ham United FC
+111,2021-11-20,Premier League,Watford FC,Manchester United FC
+112,2021-11-20,Premier League,Tottenham Hotspur FC,Leeds United FC
+113,2021-11-20,Premier League,Norwich City FC,Southampton FC
+114,2021-11-20,Premier League,Newcastle United FC,Brentford FC
+115,2021-11-20,Premier League,Manchester City FC,Everton FC
+116,2021-11-20,Premier League,Liverpool FC,Arsenal FC
+117,2021-11-20,Premier League,Leicester City FC,Chelsea FC
+118,2021-11-20,Premier League,Burnley FC,Crystal Palace FC
+119,2021-11-20,Premier League,Aston Villa FC,Brighton & Hove Albion FC
+120,2021-11-27,Premier League,Norwich City FC,Wolverhampton Wanderers FC
+121,2021-11-27,Premier League,Manchester City FC,West Ham United FC
+122,2021-11-27,Premier League,Liverpool FC,Southampton FC
+123,2021-11-27,Premier League,Leicester City FC,Watford FC
+124,2021-11-27,Premier League,Crystal Palace FC,Aston Villa FC
+125,2021-11-27,Premier League,Chelsea FC,Manchester United FC
+126,2021-11-27,Premier League,Burnley FC,Tottenham Hotspur FC
+127,2021-11-27,Premier League,Brighton & Hove Albion FC,Leeds United FC
+128,2021-11-27,Premier League,Brentford FC,Everton FC
+129,2021-11-27,Premier League,Arsenal FC,Newcastle United FC
+130,2021-11-30,Premier League,Wolverhampton Wanderers FC,Burnley FC
+131,2021-11-30,Premier League,West Ham United FC,Brighton & Hove Albion FC
+132,2021-11-30,Premier League,Watford FC,Chelsea FC
+133,2021-11-30,Premier League,Leeds United FC,Crystal Palace FC
+134,2021-11-30,Premier League,Everton FC,Liverpool FC
+135,2021-11-30,Premier League,Aston Villa FC,Manchester City FC
+136,2021-11-30,Premier League,Manchester United FC,Arsenal FC
+137,2021-12-01,Premier League,Tottenham Hotspur FC,Brentford FC
+138,2021-12-01,Premier League,Southampton FC,Leicester City FC
+139,2021-12-01,Premier League,Newcastle United FC,Norwich City FC
+140,2021-12-04,Premier League,Wolverhampton Wanderers FC,Liverpool FC
+141,2021-12-04,Premier League,West Ham United FC,Chelsea FC
+142,2021-12-04,Premier League,Watford FC,Manchester City FC
+143,2021-12-04,Premier League,Tottenham Hotspur FC,Norwich City FC
+144,2021-12-04,Premier League,Southampton FC,Brighton & Hove Albion FC
+145,2021-12-04,Premier League,Newcastle United FC,Burnley FC
+146,2021-12-04,Premier League,Manchester United FC,Crystal Palace FC
+147,2021-12-04,Premier League,Leeds United FC,Brentford FC
+148,2021-12-04,Premier League,Everton FC,Arsenal FC
+149,2021-12-04,Premier League,Aston Villa FC,Leicester City FC
+150,2021-12-11,Premier League,Norwich City FC,Manchester United FC
+151,2021-12-11,Premier League,Manchester City FC,Wolverhampton Wanderers FC
+152,2021-12-11,Premier League,Liverpool FC,Aston Villa FC
+153,2021-12-11,Premier League,Leicester City FC,Newcastle United FC
+154,2021-12-11,Premier League,Crystal Palace FC,Everton FC
+155,2021-12-11,Premier League,Chelsea FC,Leeds United FC
+156,2021-12-11,Premier League,Burnley FC,West Ham United FC
+157,2021-12-11,Premier League,Brighton & Hove Albion FC,Tottenham Hotspur FC
+158,2021-12-11,Premier League,Brentford FC,Watford FC
+159,2021-12-11,Premier League,Arsenal FC,Southampton FC
+160,2021-12-14,Premier League,Norwich City FC,Aston Villa FC
+161,2021-12-14,Premier League,Leicester City FC,Tottenham Hotspur FC
+162,2021-12-14,Premier League,Burnley FC,Watford FC
+163,2021-12-14,Premier League,Brighton & Hove Albion FC,Wolverhampton Wanderers FC
+164,2021-12-14,Premier League,Brentford FC,Manchester United FC
+165,2021-12-14,Premier League,Arsenal FC,West Ham United FC
+166,2021-12-14,Premier League,Crystal Palace FC,Southampton FC
+167,2021-12-15,Premier League,Manchester City FC,Leeds United FC
+168,2021-12-15,Premier League,Liverpool FC,Newcastle United FC
+169,2021-12-15,Premier League,Chelsea FC,Everton FC
+170,2021-12-18,Premier League,Wolverhampton Wanderers FC,Chelsea FC
+171,2021-12-18,Premier League,West Ham United FC,Norwich City FC
+172,2021-12-18,Premier League,Watford FC,Crystal Palace FC
+173,2021-12-18,Premier League,Tottenham Hotspur FC,Liverpool FC
+174,2021-12-18,Premier League,Southampton FC,Brentford FC
+175,2021-12-18,Premier League,Newcastle United FC,Manchester City FC
+176,2021-12-18,Premier League,Manchester United FC,Brighton & Hove Albion FC
+177,2021-12-18,Premier League,Leeds United FC,Arsenal FC
+178,2021-12-18,Premier League,Everton FC,Leicester City FC
+179,2021-12-18,Premier League,Aston Villa FC,Burnley FC
+180,2021-12-26,Premier League,Wolverhampton Wanderers FC,Watford FC
+181,2021-12-26,Premier League,West Ham United FC,Southampton FC
+182,2021-12-26,Premier League,Tottenham Hotspur FC,Crystal Palace FC
+183,2021-12-26,Premier League,Norwich City FC,Arsenal FC
+184,2021-12-26,Premier League,Newcastle United FC,Manchester United FC
+185,2021-12-26,Premier League,Manchester City FC,Leicester City FC
+186,2021-12-26,Premier League,Liverpool FC,Leeds United FC
+187,2021-12-26,Premier League,Burnley FC,Everton FC
+188,2021-12-26,Premier League,Brighton & Hove Albion FC,Brentford FC
+189,2021-12-26,Premier League,Aston Villa FC,Chelsea FC
+190,2021-12-28,Premier League,Crystal Palace FC,Norwich City FC
+191,2021-12-28,Premier League,Watford FC,West Ham United FC
+192,2021-12-28,Premier League,Chelsea FC,Brighton & Hove Albion FC
+193,2021-12-28,Premier League,Brentford FC,Manchester City FC
+194,2021-12-28,Premier League,Arsenal FC,Wolverhampton Wanderers FC
+195,2021-12-28,Premier League,Southampton FC,Tottenham Hotspur FC
+196,2021-12-28,Premier League,Manchester United FC,Burnley FC
+197,2021-12-28,Premier League,Leicester City FC,Liverpool FC
+198,2021-12-28,Premier League,Leeds United FC,Aston Villa FC
+199,2021-12-28,Premier League,Everton FC,Newcastle United FC
+200,2022-01-01,Premier League,Watford FC,Tottenham Hotspur FC
+201,2022-01-01,Premier League,Southampton FC,Newcastle United FC
+202,2022-01-01,Premier League,Manchester United FC,Wolverhampton Wanderers FC
+203,2022-01-01,Premier League,Leicester City FC,Norwich City FC
+204,2022-01-01,Premier League,Leeds United FC,Burnley FC
+205,2022-01-01,Premier League,Everton FC,Brighton & Hove Albion FC
+206,2022-01-01,Premier League,Crystal Palace FC,West Ham United FC
+207,2022-01-01,Premier League,Chelsea FC,Liverpool FC
+208,2022-01-01,Premier League,Brentford FC,Aston Villa FC
+209,2022-01-01,Premier League,Arsenal FC,Manchester City FC
+210,2022-01-15,Premier League,Wolverhampton Wanderers FC,Southampton FC
+211,2022-01-15,Premier League,West Ham United FC,Leeds United FC
+212,2022-01-15,Premier League,Tottenham Hotspur FC,Arsenal FC
+213,2022-01-15,Premier League,Norwich City FC,Everton FC
+214,2022-01-15,Premier League,Newcastle United FC,Watford FC
+215,2022-01-15,Premier League,Manchester City FC,Chelsea FC
+216,2022-01-15,Premier League,Liverpool FC,Brentford FC
+217,2022-01-15,Premier League,Burnley FC,Leicester City FC
+218,2022-01-15,Premier League,Brighton & Hove Albion FC,Crystal Palace FC
+219,2022-01-15,Premier League,Aston Villa FC,Manchester United FC
+220,2022-01-22,Premier League,Watford FC,Norwich City FC
+221,2022-01-22,Premier League,Southampton FC,Manchester City FC
+222,2022-01-22,Premier League,Manchester United FC,West Ham United FC
+223,2022-01-22,Premier League,Leicester City FC,Brighton & Hove Albion FC
+224,2022-01-22,Premier League,Leeds United FC,Newcastle United FC
+225,2022-01-22,Premier League,Everton FC,Aston Villa FC
+226,2022-01-22,Premier League,Crystal Palace FC,Liverpool FC
+227,2022-01-22,Premier League,Chelsea FC,Tottenham Hotspur FC
+228,2022-01-22,Premier League,Brentford FC,Wolverhampton Wanderers FC
+229,2022-01-22,Premier League,Arsenal FC,Burnley FC
+230,2022-02-08,Premier League,Wolverhampton Wanderers FC,Arsenal FC
+231,2022-02-08,Premier League,West Ham United FC,Watford FC
+232,2022-02-08,Premier League,Norwich City FC,Crystal Palace FC
+233,2022-02-08,Premier League,Burnley FC,Manchester United FC
+234,2022-02-08,Premier League,Brighton & Hove Albion FC,Chelsea FC
+235,2022-02-08,Premier League,Aston Villa FC,Leeds United FC
+236,2022-02-09,Premier League,Tottenham Hotspur FC,Southampton FC
+237,2022-02-09,Premier League,Newcastle United FC,Everton FC
+238,2022-02-09,Premier League,Manchester City FC,Brentford FC
+239,2022-02-09,Premier League,Liverpool FC,Leicester City FC
+240,2022-02-12,Premier League,Watford FC,Brighton & Hove Albion FC
+241,2022-02-12,Premier League,Tottenham Hotspur FC,Wolverhampton Wanderers FC
+242,2022-02-12,Premier League,Norwich City FC,Manchester City FC
+243,2022-02-12,Premier League,Newcastle United FC,Aston Villa FC
+244,2022-02-12,Premier League,Manchester United FC,Southampton FC
+245,2022-02-12,Premier League,Leicester City FC,West Ham United FC
+246,2022-02-12,Premier League,Everton FC,Leeds United FC
+247,2022-02-12,Premier League,Chelsea FC,Arsenal FC
+248,2022-02-12,Premier League,Burnley FC,Liverpool FC
+249,2022-02-12,Premier League,Brentford FC,Crystal Palace FC
+250,2022-02-19,Premier League,Wolverhampton Wanderers FC,Leicester City FC
+251,2022-02-19,Premier League,West Ham United FC,Newcastle United FC
+252,2022-02-19,Premier League,Southampton FC,Everton FC
+253,2022-02-19,Premier League,Manchester City FC,Tottenham Hotspur FC
+254,2022-02-19,Premier League,Liverpool FC,Norwich City FC
+255,2022-02-19,Premier League,Leeds United FC,Manchester United FC
+256,2022-02-19,Premier League,Crystal Palace FC,Chelsea FC
+257,2022-02-19,Premier League,Brighton & Hove Albion FC,Burnley FC
+258,2022-02-19,Premier League,Aston Villa FC,Watford FC
+259,2022-02-19,Premier League,Arsenal FC,Brentford FC
+260,2022-02-26,Premier League,West Ham United FC,Wolverhampton Wanderers FC
+261,2022-02-26,Premier League,Southampton FC,Norwich City FC
+262,2022-02-26,Premier League,Manchester United FC,Watford FC
+263,2022-02-26,Premier League,Leeds United FC,Tottenham Hotspur FC
+264,2022-02-26,Premier League,Everton FC,Manchester City FC
+265,2022-02-26,Premier League,Crystal Palace FC,Burnley FC
+266,2022-02-26,Premier League,Chelsea FC,Leicester City FC
+267,2022-02-26,Premier League,Brighton & Hove Albion FC,Aston Villa FC
+268,2022-02-26,Premier League,Brentford FC,Newcastle United FC
+269,2022-02-26,Premier League,Arsenal FC,Liverpool FC
+270,2022-03-05,Premier League,Wolverhampton Wanderers FC,Crystal Palace FC
+271,2022-03-05,Premier League,Watford FC,Arsenal FC
+272,2022-03-05,Premier League,Tottenham Hotspur FC,Everton FC
+273,2022-03-05,Premier League,Norwich City FC,Brentford FC
+274,2022-03-05,Premier League,Newcastle United FC,Brighton & Hove Albion FC
+275,2022-03-05,Premier League,Manchester City FC,Manchester United FC
+276,2022-03-05,Premier League,Liverpool FC,West Ham United FC
+277,2022-03-05,Premier League,Leicester City FC,Leeds United FC
+278,2022-03-05,Premier League,Burnley FC,Chelsea FC
+279,2022-03-05,Premier League,Aston Villa FC,Southampton FC
+280,2022-03-12,Premier League,West Ham United FC,Aston Villa FC
+281,2022-03-12,Premier League,Southampton FC,Watford FC
+282,2022-03-12,Premier League,Manchester United FC,Tottenham Hotspur FC
+283,2022-03-12,Premier League,Leeds United FC,Norwich City FC
+284,2022-03-12,Premier League,Everton FC,Wolverhampton Wanderers FC
+285,2022-03-12,Premier League,Crystal Palace FC,Manchester City FC
+286,2022-03-12,Premier League,Chelsea FC,Newcastle United FC
+287,2022-03-12,Premier League,Brighton & Hove Albion FC,Liverpool FC
+288,2022-03-12,Premier League,Brentford FC,Burnley FC
+289,2022-03-12,Premier League,Arsenal FC,Leicester City FC
+290,2022-03-19,Premier League,Wolverhampton Wanderers FC,Leeds United FC
+291,2022-03-19,Premier League,Watford FC,Everton FC
+292,2022-03-19,Premier League,Tottenham Hotspur FC,West Ham United FC
+293,2022-03-19,Premier League,Norwich City FC,Chelsea FC
+294,2022-03-19,Premier League,Newcastle United FC,Crystal Palace FC
+295,2022-03-19,Premier League,Manchester City FC,Brighton & Hove Albion FC
+296,2022-03-19,Premier League,Liverpool FC,Manchester United FC
+297,2022-03-19,Premier League,Leicester City FC,Brentford FC
+298,2022-03-19,Premier League,Burnley FC,Southampton FC
+299,2022-03-19,Premier League,Aston Villa FC,Arsenal FC
+300,2022-04-02,Premier League,Brighton & Hove Albion FC,Norwich City FC
+301,2022-04-02,Premier League,Burnley FC,Manchester City FC
+302,2022-04-02,Premier League,Chelsea FC,Brentford FC
+303,2022-04-02,Premier League,Crystal Palace FC,Arsenal FC
+304,2022-04-02,Premier League,Leeds United FC,Southampton FC
+305,2022-04-02,Premier League,Liverpool FC,Watford FC
+306,2022-04-02,Premier League,Manchester United FC,Leicester City FC
+307,2022-04-02,Premier League,Tottenham Hotspur FC,Newcastle United FC
+308,2022-04-02,Premier League,West Ham United FC,Everton FC
+309,2022-04-02,Premier League,Wolverhampton Wanderers FC,Aston Villa FC
+310,2022-04-09,Premier League,Arsenal FC,Brighton & Hove Albion FC
+311,2022-04-09,Premier League,Aston Villa FC,Tottenham Hotspur FC
+312,2022-04-09,Premier League,Brentford FC,West Ham United FC
+313,2022-04-09,Premier League,Everton FC,Manchester United FC
+314,2022-04-09,Premier League,Leicester City FC,Crystal Palace FC
+315,2022-04-09,Premier League,Manchester City FC,Liverpool FC
+316,2022-04-09,Premier League,Newcastle United FC,Wolverhampton Wanderers FC
+317,2022-04-09,Premier League,Norwich City FC,Burnley FC
+318,2022-04-09,Premier League,Southampton FC,Chelsea FC
+319,2022-04-09,Premier League,Watford FC,Leeds United FC
+320,2022-04-16,Premier League,Aston Villa FC,Liverpool FC
+321,2022-04-16,Premier League,Everton FC,Crystal Palace FC
+322,2022-04-16,Premier League,Leeds United FC,Chelsea FC
+323,2022-04-16,Premier League,Manchester United FC,Norwich City FC
+324,2022-04-16,Premier League,Newcastle United FC,Leicester City FC
+325,2022-04-16,Premier League,Southampton FC,Arsenal FC
+326,2022-04-16,Premier League,Tottenham Hotspur FC,Brighton & Hove Albion FC
+327,2022-04-16,Premier League,Watford FC,Brentford FC
+328,2022-04-16,Premier League,West Ham United FC,Burnley FC
+329,2022-04-16,Premier League,Wolverhampton Wanderers FC,Manchester City FC
+330,2022-04-23,Premier League,Arsenal FC,Manchester United FC
+331,2022-04-23,Premier League,Brentford FC,Tottenham Hotspur FC
+332,2022-04-23,Premier League,Brighton & Hove Albion FC,Southampton FC
+333,2022-04-23,Premier League,Burnley FC,Wolverhampton Wanderers FC
+334,2022-04-23,Premier League,Chelsea FC,West Ham United FC
+335,2022-04-23,Premier League,Crystal Palace FC,Leeds United FC
+336,2022-04-23,Premier League,Leicester City FC,Aston Villa FC
+337,2022-04-23,Premier League,Liverpool FC,Everton FC
+338,2022-04-23,Premier League,Manchester City FC,Watford FC
+339,2022-04-23,Premier League,Norwich City FC,Newcastle United FC
+340,2022-04-30,Premier League,Aston Villa FC,Norwich City FC
+341,2022-04-30,Premier League,Everton FC,Chelsea FC
+342,2022-04-30,Premier League,Leeds United FC,Manchester City FC
+343,2022-04-30,Premier League,Manchester United FC,Brentford FC
+344,2022-04-30,Premier League,Newcastle United FC,Liverpool FC
+345,2022-04-30,Premier League,Southampton FC,Crystal Palace FC
+346,2022-04-30,Premier League,Tottenham Hotspur FC,Leicester City FC
+347,2022-04-30,Premier League,Watford FC,Burnley FC
+348,2022-04-30,Premier League,West Ham United FC,Arsenal FC
+349,2022-04-30,Premier League,Wolverhampton Wanderers FC,Brighton & Hove Albion FC
+350,2022-05-07,Premier League,Arsenal FC,Leeds United FC
+351,2022-05-07,Premier League,Brentford FC,Southampton FC
+352,2022-05-07,Premier League,Brighton & Hove Albion FC,Manchester United FC
+353,2022-05-07,Premier League,Burnley FC,Aston Villa FC
+354,2022-05-07,Premier League,Chelsea FC,Wolverhampton Wanderers FC
+355,2022-05-07,Premier League,Crystal Palace FC,Watford FC
+356,2022-05-07,Premier League,Leicester City FC,Everton FC
+357,2022-05-07,Premier League,Liverpool FC,Tottenham Hotspur FC
+358,2022-05-07,Premier League,Manchester City FC,Newcastle United FC
+359,2022-05-07,Premier League,Norwich City FC,West Ham United FC
+360,2022-05-15,Premier League,Aston Villa FC,Crystal Palace FC
+361,2022-05-15,Premier League,Everton FC,Brentford FC
+362,2022-05-15,Premier League,Leeds United FC,Brighton & Hove Albion FC
+363,2022-05-15,Premier League,Manchester United FC,Chelsea FC
+364,2022-05-15,Premier League,Newcastle United FC,Arsenal FC
+365,2022-05-15,Premier League,Southampton FC,Liverpool FC
+366,2022-05-15,Premier League,Tottenham Hotspur FC,Burnley FC
+367,2022-05-15,Premier League,Watford FC,Leicester City FC
+368,2022-05-15,Premier League,West Ham United FC,Manchester City FC
+369,2022-05-15,Premier League,Wolverhampton Wanderers FC,Norwich City FC
+370,2022-05-22,Premier League,Norwich City FC,Tottenham Hotspur FC
+371,2022-05-22,Premier League,Manchester City FC,Aston Villa FC
+372,2022-05-22,Premier League,Liverpool FC,Wolverhampton Wanderers FC
+373,2022-05-22,Premier League,Leicester City FC,Southampton FC
+374,2022-05-22,Premier League,Crystal Palace FC,Manchester United FC
+375,2022-05-22,Premier League,Chelsea FC,Watford FC
+376,2022-05-22,Premier League,Burnley FC,Newcastle United FC
+377,2022-05-22,Premier League,Brighton & Hove Albion FC,West Ham United FC
+378,2022-05-22,Premier League,Brentford FC,Leeds United FC
+379,2022-05-22,Premier League,Arsenal FC,Everton FC

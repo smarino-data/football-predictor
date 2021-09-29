@@ -1,0 +1,601 @@
+Team,League,Attack,Midfield,Defence,Overall,submitted_date
+Liverpool,Premier League,86,83,80,85,2021-08-09
+Manchester City,Premier League,85,86,83,85,2021-08-09
+Real Madrid,LaLiga Santander,84,86,84,85,2021-08-09
+FC Bayern München,Bundesliga,92,85,82,84,2021-08-09
+FC Barcelona,LaLiga Santander,87,82,81,84,2021-08-09
+Juventus,Serie A TIM,87,81,83,83,2021-08-09
+Paris Saint-Germain,Ligue 1 Uber Eats,86,82,82,83,2021-08-09
+Atlético de Madrid,LaLiga Santander,85,82,83,83,2021-08-09
+Tottenham Hotspur,Premier League,89,82,81,82,2021-08-09
+Manchester United,Premier League,83,82,82,82,2021-08-09
+Inter,Serie A TIM,83,81,83,82,2021-08-09
+Chelsea,Premier League,82,84,82,82,2021-08-09
+Borussia Dortmund,Bundesliga,87,81,81,81,2021-08-09
+Sevilla FC,LaLiga Santander,80,81,82,81,2021-08-09
+Arsenal,Premier League,83,79,79,80,2021-08-09
+Napoli,Serie A TIM,82,80,80,80,2021-08-09
+Lazio,Serie A TIM,82,80,79,80,2021-08-09
+Villarreal CF,LaLiga Santander,82,79,79,80,2021-08-09
+Leicester City,Premier League,80,81,79,80,2021-08-09
+RB Leipzig,Bundesliga,78,81,80,80,2021-08-09
+Atalanta,Serie A TIM,82,79,78,79,2021-08-09
+Real Sociedad,LaLiga Santander,81,81,77,79,2021-08-09
+Everton,Premier League,81,79,80,79,2021-08-09
+Milan,Serie A TIM,81,78,80,79,2021-08-09
+Athletic Club,LaLiga Santander,80,78,79,79,2021-08-09
+Borussia Mönchengladbach,Bundesliga,78,79,80,79,2021-08-09
+Bayer 04 Leverkusen,Bundesliga,78,78,78,79,2021-08-09
+Wolverhampton Wanderers,Premier League,77,81,78,79,2021-08-09
+SL Benfica,Liga NOS,77,79,78,79,2021-08-09
+Ajax,Eredivisie,80,77,76,78,2021-08-09
+Real Betis Balompié,LaLiga Santander,79,79,78,78,2021-08-09
+FC Porto,Liga NOS,79,79,77,78,2021-08-09
+Olympique Lyonnais,Ligue 1 Uber Eats,79,79,77,78,2021-08-09
+West Ham United,Premier League,79,79,77,78,2021-08-09
+AS Monaco,Ligue 1 Uber Eats,79,77,77,78,2021-08-09
+Roma,Serie A TIM,79,77,76,78,2021-08-09
+Sporting CP,Liga NOS,78,81,77,78,2021-08-09
+LOSC Lille,Ligue 1 Uber Eats,78,78,78,78,2021-08-09
+VfL Wolfsburg,Bundesliga,78,78,77,78,2021-08-09
+Granada CF,LaLiga Santander,77,78,77,78,2021-08-09
+Eintracht Frankfurt,Bundesliga,79,77,75,77,2021-08-09
+Getafe CF,LaLiga Santander,77,78,77,77,2021-08-09
+Valencia CF,LaLiga Santander,77,78,77,77,2021-08-09
+Aston Villa,Premier League,77,77,77,77,2021-08-09
+Olympique de Marseille,Ligue 1 Uber Eats,77,76,76,77,2021-08-09
+PSV,Eredivisie,79,76,77,76,2021-08-09
+Levante UD,LaLiga Santander,79,76,75,76,2021-08-09
+Fiorentina,Serie A TIM,78,76,75,76,2021-08-09
+Leeds United,Premier League,78,76,75,76,2021-08-09
+Southampton,Premier League,77,77,76,76,2021-08-09
+Hertha Berlin,Bundesliga,77,76,75,76,2021-08-09
+Crystal Palace,Premier League,77,75,75,76,2021-08-09
+Flamengo,Libertadores,77,75,75,76,2021-08-09
+Newcastle United,Premier League,77,75,74,76,2021-08-09
+D. Alavés,LaLiga Santander,77,74,76,76,2021-08-09
+OGC Nice,Ligue 1 Uber Eats,77,74,73,76,2021-08-09
+CA Osasuna,LaLiga Santander,76,77,75,76,2021-08-09
+River Plate,Libertadores,76,76,75,76,2021-08-09
+Olympiacos CFP,Rest of World,76,76,73,76,2021-08-09
+SD Eibar,LaLiga Santander,76,75,74,76,2021-08-09
+Torino,Serie A TIM,76,74,77,76,2021-08-09
+Boca Juniors,Libertadores,76,73,75,76,2021-08-09
+TSG Hoffenheim,Bundesliga,75,77,76,76,2021-08-09
+Burnley,Premier League,75,76,77,76,2021-08-09
+Stade Rennais FC,Ligue 1 Uber Eats,75,76,76,76,2021-08-09
+Atlético Mineiro,Liga do Brasil,81,75,75,75,2021-08-09
+Montpellier Hérault SC,Ligue 1 Uber Eats,80,76,73,75,2021-08-09
+RC Celta,LaLiga Santander,80,75,75,75,2021-08-09
+Sassuolo,Serie A TIM,79,77,72,75,2021-08-09
+São Paulo,Libertadores,78,75,76,75,2021-08-09
+Tigres de la UANL,LIGA BBVA MX,77,75,73,75,2021-08-09
+Galatasaray SK,Süper Lig,77,73,74,75,2021-08-09
+R. Valladolid CF,LaLiga Santander,76,76,74,75,2021-08-09
+Sampdoria,Serie A TIM,76,75,73,75,2021-08-09
+Udinese,Serie A TIM,76,75,72,75,2021-08-09
+Feyenoord,Eredivisie,76,74,75,75,2021-08-09
+Cagliari,Serie A TIM,76,73,73,75,2021-08-09
+Brighton & Hove Albion,Premier League,75,76,76,75,2021-08-09
+RCD Espanyol,LaLiga SmartBank,75,76,74,75,2021-08-09
+Club Brugge KV,1A Pro League,75,76,74,75,2021-08-09
+SK Slavia Praha,Rest of World,75,75,75,75,2021-08-09
+Angers SCO,Ligue 1 Uber Eats,75,75,74,75,2021-08-09
+SC Braga,Liga NOS,74,76,75,75,2021-08-09
+Fenerbahçe SK,Süper Lig,74,76,75,75,2021-08-09
+Spartak Moscow,Rest of World,74,76,74,75,2021-08-09
+Fulham,Premier League,74,75,74,75,2021-08-09
+Shakhtar Donetsk,Rest of World,71,75,73,75,2021-08-09
+Cruz Azul,LIGA BBVA MX,77,73,73,74,2021-08-09
+Hellas Verona,Serie A TIM,76,75,73,74,2021-08-09
+Rayados de Monterrey,LIGA BBVA MX,75,75,74,74,2021-08-09
+Beşiktaş JK,Süper Lig,75,75,73,74,2021-08-09
+Bologna,Serie A TIM,75,75,73,74,2021-08-09
+Sport-Club Freiburg,Bundesliga,75,75,73,74,2021-08-09
+Rangers FC,Scottish Prem,75,74,75,74,2021-08-09
+RC Strasbourg Alsace,Ligue 1 Uber Eats,75,73,74,74,2021-08-09
+Grêmio,Liga do Brasil,75,72,75,74,2021-08-09
+Palmeiras,Libertadores,74,76,74,74,2021-08-09
+İstanbul Başakşehir FK,Süper Lig,74,75,73,74,2021-08-09
+FC Schalke 04,Bundesliga,74,75,72,74,2021-08-09
+AZ,Eredivisie,74,74,73,74,2021-08-09
+Watford,EFL Championship,74,74,73,74,2021-08-09
+Parma,Serie A TIM,74,74,73,74,2021-08-09
+1. FC Köln,Bundesliga,74,74,72,74,2021-08-09
+PFC CSKA Moscow,Rest of World,74,73,73,74,2021-08-09
+FC Girondins de Bordeaux,Ligue 1 Uber Eats,74,73,72,74,2021-08-09
+SV Werder Bremen,Bundesliga,73,74,75,74,2021-08-09
+FC Augsburg,Bundesliga,73,74,74,74,2021-08-09
+Lokomotiv Moskva,Rest of World,73,73,73,74,2021-08-09
+AFC Bournemouth,EFL Championship,72,75,71,74,2021-08-09
+Genoa,Serie A TIM,72,74,74,74,2021-08-09
+Internacional,Liga do Brasil,71,75,75,74,2021-08-09
+Dynamo Kyiv,Rest of World,70,74,73,74,2021-08-09
+Norwich City,EFL Championship,76,73,71,73,2021-08-09
+Cádiz CF,LaLiga Santander,75,73,72,73,2021-08-09
+Celtic,Scottish Prem,75,73,72,73,2021-08-09
+1. FC Union Berlin,Bundesliga,75,72,73,73,2021-08-09
+FC Red Bull Salzburg,Ö. Bundesliga,75,72,73,73,2021-08-09
+KRC Genk,1A Pro League,75,71,73,73,2021-08-09
+AS Saint-Étienne,Ligue 1 Uber Eats,74,74,73,73,2021-08-09
+Dinamo Zagreb,Rest of World,74,74,72,73,2021-08-09
+West Bromwich Albion,Premier League,74,74,72,73,2021-08-09
+Vélez Sarsfield,LPF,74,73,73,73,2021-08-09
+Club América,LIGA BBVA MX,74,73,73,73,2021-08-09
+Club León,LIGA BBVA MX,74,73,72,73,2021-08-09
+VfB Stuttgart,Bundesliga,74,73,72,73,2021-08-09
+Santos,Liga do Brasil,74,72,73,73,2021-08-09
+Al Hilal,MBS Pro League,73,74,72,73,2021-08-09
+Stade de Reims,Ligue 1 Uber Eats,73,73,74,73,2021-08-09
+SD Huesca,LaLiga Santander,73,73,73,73,2021-08-09
+PAOK,Rest of World,73,73,72,73,2021-08-09
+Sparta Praha,Rest of World,73,73,70,73,2021-08-09
+RC Lens,Ligue 1 Uber Eats,72,75,73,73,2021-08-09
+1. FSV Mainz 05,Bundesliga,72,73,73,73,2021-08-09
+Elche CF,LaLiga Santander,72,73,72,73,2021-08-09
+RCD Mallorca,LaLiga SmartBank,72,73,72,73,2021-08-09
+Stade Brestois 29,Ligue 1 Uber Eats,72,73,72,73,2021-08-09
+Corinthians,Sudamericana,72,72,74,73,2021-08-09
+FC Nantes,Ligue 1 Uber Eats,71,74,74,73,2021-08-09
+Racing Club,LPF,71,74,73,73,2021-08-09
+Sheffield United,Premier League,71,74,73,73,2021-08-09
+Nîmes Olympique,Ligue 1 Uber Eats,71,73,73,73,2021-08-09
+Club Libertad,Libertadores,69,72,72,73,2021-08-09
+Royal Antwerp FC,1A Pro League,75,72,73,72,2021-08-09
+Ceará Sporting Club,Liga do Brasil,75,71,73,72,2021-08-09
+Trabzonspor,Süper Lig,74,73,70,72,2021-08-09
+Brentford,EFL Championship,74,72,71,72,2021-08-09
+UD Almería,LaLiga SmartBank,74,72,71,72,2021-08-09
+Club Athletico Paranaense,Liga do Brasil,74,71,72,72,2021-08-09
+Defensa y Justicia,LPF,74,71,71,72,2021-08-09
+Vitória Guimarães,Liga NOS,74,71,71,72,2021-08-09
+Club Atlético Independiente,LPF,73,74,71,72,2021-08-09
+KAA Gent,1A Pro League,73,73,70,72,2021-08-09
+AEK Athens,Rest of World,73,73,70,72,2021-08-09
+RSC Anderlecht,1A Pro League,73,72,71,72,2021-08-09
+San Lorenzo de Almagro,LPF,73,71,71,72,2021-08-09
+RB Bragantino,Sudamericana,72,73,74,72,2021-08-09
+Viktoria Plzeň,Rest of World,72,73,71,72,2021-08-09
+BSC Young Boys,RSL,72,72,72,72,2021-08-09
+DSC Arminia Bielefeld,Bundesliga,72,72,71,72,2021-08-09
+CD Leganés,LaLiga SmartBank,72,71,73,72,2021-08-09
+Benevento,Serie A TIM,72,71,72,72,2021-08-09
+FC Basel 1893,RSL,72,71,71,72,2021-08-09
+FC København,3F Superliga,72,71,68,72,2021-08-09
+Standard de Liège,1A Pro League,71,72,71,72,2021-08-09
+Fluminense,Liga do Brasil,70,73,72,72,2021-08-09
+FC Metz,Ligue 1 Uber Eats,70,70,73,72,2021-08-09
+Club Deportivo Guadalajara,LIGA BBVA MX,75,72,68,71,2021-08-09
+Universidad Católica,Libertadores,75,68,70,71,2021-08-09
+Inter Miami CF,MLS,74,71,70,71,2021-08-09
+Minnesota United FC,MLS,74,70,70,71,2021-08-09
+Club Universidad Nacional,LIGA BBVA MX,74,70,70,71,2021-08-09
+Club Nacional de Football,Libertadores,74,70,68,71,2021-08-09
+Swansea City,EFL Championship,73,71,72,71,2021-08-09
+Dijon FCO,Ligue 1 Uber Eats,73,71,70,71,2021-08-09
+Hamburger SV,Bundesliga 2,73,70,71,71,2021-08-09
+Girona FC,LaLiga SmartBank,73,69,68,71,2021-08-09
+Fatih Karagümrük SK,Süper Lig,72,73,68,71,2021-08-09
+Seattle Sounders FC,MLS,72,73,67,71,2021-08-09
+Columbus Crew SC,MLS,72,72,70,71,2021-08-09
+Portland Timbers,MLS,72,71,69,71,2021-08-09
+Club Atlético Talleres,LPF,72,69,72,71,2021-08-09
+Çaykur Rizespor,Süper Lig,72,69,70,71,2021-08-09
+Crotone,Serie A TIM,72,68,70,71,2021-08-09
+AC Monza,Rest of World,72,67,68,71,2021-08-09
+FC Paços de Ferreira,Liga NOS,71,73,72,71,2021-08-09
+Reading,EFL Championship,71,72,71,71,2021-08-09
+Sporting Charleroi,1A Pro League,71,72,71,71,2021-08-09
+FC Utrecht,Eredivisie,71,72,70,71,2021-08-09
+Demir Grup Sivasspor,Süper Lig,71,72,69,71,2021-08-09
+Alanyaspor,Süper Lig,71,71,72,71,2021-08-09
+Argentinos Juniors,LPF,71,71,72,71,2021-08-09
+Rio Ave FC,Liga NOS,71,71,72,71,2021-08-09
+Fortuna Düsseldorf,Bundesliga 2,71,71,70,71,2021-08-09
+Colón de Santa Fe,LPF,71,71,70,71,2021-08-09
+FC Lorient,Ligue 1 Uber Eats,71,71,70,71,2021-08-09
+Blackburn Rovers,EFL Championship,71,71,70,71,2021-08-09
+Cardiff City,EFL Championship,71,71,69,71,2021-08-09
+LASK,Ö. Bundesliga,71,70,71,71,2021-08-09
+R. Sporting,LaLiga SmartBank,71,70,70,71,2021-08-09
+Nottingham Forest,EFL Championship,71,70,70,71,2021-08-09
+Panathinaikos FC,Rest of World,71,70,69,71,2021-08-09
+Atlético Clube Goianiense,Liga do Brasil,70,71,73,71,2021-08-09
+Fortaleza,Liga do Brasil,70,71,72,71,2021-08-09
+Club Atlas,LIGA BBVA MX,70,70,69,71,2021-08-09
+Club Olimpia,Libertadores,70,70,69,71,2021-08-09
+Santos Laguna,LIGA BBVA MX,70,70,68,71,2021-08-09
+Pachuca,LIGA BBVA MX,70,69,72,71,2021-08-09
+Newell's Old Boys,LPF,70,69,71,71,2021-08-09
+Bahia,Liga do Brasil,69,71,71,71,2021-08-09
+Rayo Vallecano,LaLiga SmartBank,69,71,70,71,2021-08-09
+Orlando City Soccer Club,MLS,69,71,67,71,2021-08-09
+Al Nassr,MBS Pro League,78,68,69,70,2021-08-09
+Al Ahli,MBS Pro League,76,69,67,70,2021-08-09
+Al Shabab,MBS Pro League,75,72,67,70,2021-08-09
+LAFC,MLS,75,70,68,70,2021-08-09
+Club Atlético Lanús,LPF,74,71,69,70,2021-08-09
+Antalyaspor,Süper Lig,74,70,68,70,2021-08-09
+Guangzhou Evergrande Taobao FC,CSL,73,70,68,70,2021-08-09
+Kawasaki Frontale,Meiji Yasuda J1,73,69,70,70,2021-08-09
+Club Tijuana,LIGA BBVA MX,73,68,69,70,2021-08-09
+Kasimpaşa SK,Süper Lig,72,70,70,70,2021-08-09
+Rosario Central,LPF,72,70,67,70,2021-08-09
+SK Rapid Wien,Ö. Bundesliga,72,68,70,70,2021-08-09
+Jeonbuk Hyundai Motors,K League 1,71,71,68,70,2021-08-09
+New York City FC,MLS,71,69,70,70,2021-08-09
+Kayserispor,Süper Lig,70,71,68,70,2021-08-09
+Hannover 96,Bundesliga 2,70,70,71,70,2021-08-09
+VfL Bochum 1848,Bundesliga 2,70,70,71,70,2021-08-09
+Middlesbrough,EFL Championship,70,70,71,70,2021-08-09
+Futebol Clube de Famalicão,Liga NOS,70,70,70,70,2021-08-09
+Gaziantep FK,Süper Lig,70,70,70,70,2021-08-09
+Deportivo Toluca,LIGA BBVA MX,70,70,70,70,2021-08-09
+Stoke City,EFL Championship,70,70,70,70,2021-08-09
+Philadelphia Union,MLS,70,70,69,70,2021-08-09
+Coritiba,Liga do Brasil,70,70,69,70,2021-08-09
+Boavista FC,Liga NOS,70,70,69,70,2021-08-09
+La Spezia,Serie A TIM,70,70,67,70,2021-08-09
+Junior FC,Libertadores,70,70,67,70,2021-08-09
+Santa Clara,Liga NOS,70,69,70,70,2021-08-09
+Lecce,Rest of World,70,69,69,70,2021-08-09
+Bristol City,EFL Championship,70,68,70,70,2021-08-09
+Millwall,EFL Championship,70,67,70,70,2021-08-09
+FC Midtjylland,3F Superliga,69,72,70,70,2021-08-09
+Estudiantes de La Plata,LPF,69,72,69,70,2021-08-09
+Chievo Verona,Rest of World,69,71,69,70,2021-08-09
+Birmingham City,EFL Championship,69,70,71,70,2021-08-09
+Sheffield Wednesday,EFL Championship,69,70,69,70,2021-08-09
+Toronto FC,MLS,68,72,69,70,2021-08-09
+Vitesse,Eredivisie,68,70,71,70,2021-08-09
+Derby County,EFL Championship,68,70,69,70,2021-08-09
+MKE Ankaragücü,Süper Lig,68,69,70,70,2021-08-09
+D.C. United,MLS,67,68,66,70,2021-08-09
+Preston North End,EFL Championship,66,71,69,70,2021-08-09
+LA Galaxy,MLS,77,70,67,69,2021-08-09
+Kashima Antlers,Meiji Yasuda J1,74,68,66,69,2021-08-09
+Oud-Heverlee Leuven,1A Pro League,73,70,69,69,2021-08-09
+Mazatlán Fútbol Club,LIGA BBVA MX,73,67,65,69,2021-08-09
+SC Heerenveen,Eredivisie,72,71,67,69,2021-08-09
+Shanghai Shenhua,CSL,72,70,64,69,2021-08-09
+Queens Park Rangers,EFL Championship,72,69,69,69,2021-08-09
+Atlanta United FC,MLS,72,69,68,69,2021-08-09
+SPAL,Rest of World,72,68,68,69,2021-08-09
+Shanghai SIPG FC,CSL,71,72,65,69,2021-08-09
+Hatayspor,Süper Lig,71,70,68,69,2021-08-09
+R. Oviedo,LaLiga SmartBank,71,69,69,69,2021-08-09
+Moreirense FC,Liga NOS,71,69,69,69,2021-08-09
+Fútbol Club Juárez,LIGA BBVA MX,71,69,68,69,2021-08-09
+SV Darmstadt 98,Bundesliga 2,71,69,68,69,2021-08-09
+Gençlerbirliği SK,Süper Lig,71,69,68,69,2021-08-09
+1. FC Heidenheim 1846,Bundesliga 2,71,68,71,69,2021-08-09
+Yeni Malatyaspor,Süper Lig,71,68,70,69,2021-08-09
+Club Atlético de San Luis,LIGA BBVA MX,71,68,67,69,2021-08-09
+Sporting Kansas City,MLS,71,67,69,69,2021-08-09
+Kaizer Chiefs,Rest of World,71,66,67,69,2021-08-09
+Holstein Kiel,Bundesliga 2,70,73,68,69,2021-08-09
+Al Ittihad,MBS Pro League,70,71,67,69,2021-08-09
+Göztepe SK,Süper Lig,70,70,68,69,2021-08-09
+Colorado Rapids,MLS,70,70,68,69,2021-08-09
+Vissel Kobe,Meiji Yasuda J1,70,70,66,69,2021-08-09
+Goiás,Liga do Brasil,70,69,69,69,2021-08-09
+SC Paderborn 07,Bundesliga 2,70,69,69,69,2021-08-09
+KAS Eupen,1A Pro League,70,69,69,69,2021-08-09
+UD Las Palmas,LaLiga SmartBank,70,69,69,69,2021-08-09
+SpVgg Greuther Fürth,Bundesliga 2,70,69,69,69,2021-08-09
+Atlético Tucumán,LPF,70,69,68,69,2021-08-09
+Empoli,Rest of World,70,69,68,69,2021-08-09
+Molde FK,Eliteserien,70,69,68,69,2021-08-09
+CD Tenerife,LaLiga SmartBank,70,69,68,69,2021-08-09
+AJ Auxerre,Ligue 2 BKT,70,69,68,69,2021-08-09
+Unión de Santa Fe,LPF,70,68,68,69,2021-08-09
+CD Palestino,Sudamericana,70,68,68,69,2021-08-09
+Willem II,Eredivisie,70,68,68,69,2021-08-09
+Orlando Pirates,Rest of World,70,67,68,69,2021-08-09
+Urawa Red Diamonds,Meiji Yasuda J1,70,65,70,69,2021-08-09
+Independiente del Valle,Libertadores,69,71,65,69,2021-08-09
+Malmö FF,Sweden Allsvenskan (1),69,70,69,69,2021-08-09
+Málaga CF,LaLiga SmartBank,69,70,68,69,2021-08-09
+Gil Vicente FC,Liga NOS,69,69,70,69,2021-08-09
+Ulsan Hyundai Horang-i,K League 1,69,69,70,69,2021-08-09
+Legia Warszawa,PKO Ekstraklasa,69,69,66,69,2021-08-09
+Brescia,Rest of World,69,67,69,69,2021-08-09
+Marítimo,Liga NOS,69,67,68,69,2021-08-09
+Yokohama F・Marinos,Meiji Yasuda J1,68,70,69,69,2021-08-09
+KV Kortrijk,1A Pro League,68,70,69,69,2021-08-09
+Club Atlético Peñarol,Sudamericana,68,70,68,69,2021-08-09
+1. FC Nürnberg,Bundesliga 2,68,70,68,69,2021-08-09
+Portimonense SC,Liga NOS,68,70,67,69,2021-08-09
+ESTAC Troyes,Ligue 2 BKT,68,69,71,69,2021-08-09
+FC CFR 1907 Cluj,Liga I,68,69,70,69,2021-08-09
+Huddersfield Town,EFL Championship,68,69,69,69,2021-08-09
+KV Mechelen,1A Pro League,68,69,68,69,2021-08-09
+Konyaspor,Süper Lig,68,68,70,69,2021-08-09
+Belenenses,Liga NOS,68,68,70,69,2021-08-09
+Luton Town,EFL Championship,68,68,69,69,2021-08-09
+FC Dallas,MLS,67,70,68,69,2021-08-09
+Botafogo,Liga do Brasil,67,69,71,69,2021-08-09
+Toulouse FC,Ligue 2 BKT,67,68,70,69,2021-08-09
+SC Farense,Liga NOS,66,69,69,69,2021-08-09
+Barcelona Sporting Club,Libertadores,66,68,70,69,2021-08-09
+Banfield,LPF,65,70,65,69,2021-08-09
+Al Ain FC,Rest of World,75,67,66,68,2021-08-09
+Beijing Sinobo Guoan FC,CSL,73,70,67,68,2021-08-09
+Chicago Fire Soccer Club,MLS,72,70,66,68,2021-08-09
+New England Revolution,MLS,72,67,66,68,2021-08-09
+FC Erzgebirge Aue,Bundesliga 2,71,69,67,68,2021-08-09
+SV Zulte Waregem,1A Pro League,71,69,66,68,2021-08-09
+FC Cincinnati,MLS,71,68,67,68,2021-08-09
+SD Ponferradina,LaLiga SmartBank,71,68,67,68,2021-08-09
+Vancouver Whitecaps FC,MLS,71,67,66,68,2021-08-09
+BB Erzurumspor,Süper Lig,71,67,66,68,2021-08-09
+San Jose Earthquakes,MLS,70,70,66,68,2021-08-09
+K Beerschot VA,1A Pro League,70,69,68,68,2021-08-09
+FC St. Pauli,Bundesliga 2,70,68,68,68,2021-08-09
+IFK Göteborg,Sweden Allsvenskan (1),70,68,67,68,2021-08-09
+Club Cerro Porteño,Libertadores,70,68,64,68,2021-08-09
+R. Zaragoza,LaLiga SmartBank,70,67,69,68,2021-08-09
+F.C. Tokyo,Meiji Yasuda J1,70,67,68,68,2021-08-09
+FCSB,Liga I,70,67,68,68,2021-08-09
+Sint-Truidense VV,1A Pro League,70,67,68,68,2021-08-09
+Nashville SC,MLS,69,70,67,68,2021-08-09
+KV Oostende,1A Pro League,69,69,68,68,2021-08-09
+Impact Montréal,MLS,69,69,67,68,2021-08-09
+Lech Poznań,PKO Ekstraklasa,69,69,67,68,2021-08-09
+Brøndby IF,3F Superliga,69,69,67,68,2021-08-09
+Gimnasia y Esgrima La Plata,LPF,69,68,68,68,2021-08-09
+LDU Quito,Libertadores,69,68,67,68,2021-08-09
+CD Nacional,Liga NOS,69,68,67,68,2021-08-09
+New York Red Bulls,MLS,69,68,67,68,2021-08-09
+CD Tondela,Liga NOS,69,67,70,68,2021-08-09
+SV Sandhausen,Bundesliga 2,69,67,68,68,2021-08-09
+Universitatea Craiova,Liga I,69,67,68,68,2021-08-09
+Royal Excel Mouscron,1A Pro League,69,67,67,68,2021-08-09
+Club Bolívar,Libertadores,69,67,67,68,2021-08-09
+FC Luzern,RSL,69,67,67,68,2021-08-09
+SM Caen,Ligue 2 BKT,69,67,67,68,2021-08-09
+Sanfrecce Hiroshima,Meiji Yasuda J1,69,66,69,68,2021-08-09
+En Avant Guingamp,Ligue 2 BKT,68,69,69,68,2021-08-09
+Karlsruher SC,Bundesliga 2,68,69,68,68,2021-08-09
+RZ Pellets Wolfsberger AC,Ö. Bundesliga,68,69,67,68,2021-08-09
+Rosenborg BK,Eliteserien,68,69,67,68,2021-08-09
+CD Castellón,LaLiga SmartBank,68,69,66,68,2021-08-09
+Puebla,LIGA BBVA MX,68,69,64,68,2021-08-09
+Gamba Osaka,Meiji Yasuda J1,68,68,70,68,2021-08-09
+Barnsley,EFL Championship,68,68,69,68,2021-08-09
+Club Atlético Huracán,LPF,68,68,68,68,2021-08-09
+Nagoya Grampus,Meiji Yasuda J1,68,68,67,68,2021-08-09
+Rotherham United,EFL Championship,68,68,67,68,2021-08-09
+Club Necaxa,LIGA BBVA MX,68,67,68,68,2021-08-09
+Unión La Calera,Libertadores,68,67,67,68,2021-08-09
+FC Twente,Eredivisie,68,66,67,68,2021-08-09
+Coventry City,EFL Championship,67,70,69,68,2021-08-09
+Atlético Nacional,Libertadores,67,70,67,68,2021-08-09
+SK Sturm Graz,Ö. Bundesliga,67,70,67,68,2021-08-09
+Cerezo Osaka,Meiji Yasuda J1,67,69,69,68,2021-08-09
+Cercle Brugge,1A Pro League,67,69,67,68,2021-08-09
+Sporting Cristal,Libertadores,67,68,68,68,2021-08-09
+Real Salt Lake,MLS,67,68,67,68,2021-08-09
+CF Fuenlabrada,LaLiga SmartBank,67,68,67,68,2021-08-09
+Deportes Tolima,Sudamericana,67,68,66,68,2021-08-09
+Aarhus AGF,3F Superliga,66,70,67,68,2021-08-09
+FC Groningen,Eredivisie,66,68,69,68,2021-08-09
+Houston Dynamo,MLS,65,69,68,68,2021-08-09
+Amiens SC,Ligue 2 BKT,65,67,68,68,2021-08-09
+Shandong Luneng TaiShan FC,CSL,64,70,65,68,2021-08-09
+Gallos Blancos de Querétaro,LIGA BBVA MX,71,68,65,67,2021-08-09
+Fortuna Sittard,Eredivisie,70,68,67,67,2021-08-09
+Waasland-Beveren,1A Pro League,70,67,67,67,2021-08-09
+Sydney FC,A-League,69,67,67,67,2021-08-09
+FC Emmen,Eredivisie,69,67,67,67,2021-08-09
+FK Austria Wien,Ö. Bundesliga,69,66,68,67,2021-08-09
+FC Sion,RSL,69,66,66,67,2021-08-09
+VVV-Venlo,Eredivisie,69,66,66,67,2021-08-09
+Universitario de Deportes,Libertadores,69,66,65,67,2021-08-09
+Deportivo Cali,Sudamericana,69,65,67,67,2021-08-09
+Al Wehda,MBS Pro League,68,69,65,67,2021-08-09
+Arsenal de Sarandí,LPF,68,68,68,67,2021-08-09
+The Strongest,Libertadores,68,68,66,67,2021-08-09
+UD Logroñés,LaLiga SmartBank,68,68,66,67,2021-08-09
+Club Atlético Central Córdoba,LPF,68,68,65,67,2021-08-09
+FC Seoul,K League 1,68,68,63,67,2021-08-09
+Servette FC,RSL,68,67,67,67,2021-08-09
+CD Lugo,LaLiga SmartBank,68,67,66,67,2021-08-09
+Sparta Rotterdam,Eredivisie,68,67,66,67,2021-08-09
+Hibernian,Scottish Prem,68,67,66,67,2021-08-09
+FC Cartagena,LaLiga SmartBank,68,67,65,67,2021-08-09
+Hull City,EFL League One,68,66,66,67,2021-08-09
+Godoy Cruz,LPF,67,68,67,67,2021-08-09
+AC Ajaccio,Ligue 2 BKT,67,68,66,67,2021-08-09
+PEC Zwolle,Eredivisie,67,67,67,67,2021-08-09
+VfL Osnabrück,Bundesliga 2,67,67,67,67,2021-08-09
+CS Emelec,Sudamericana,67,67,66,67,2021-08-09
+Eintracht Braunschweig,Bundesliga 2,67,67,66,67,2021-08-09
+SSV Jahn Regensburg,Bundesliga 2,67,67,66,67,2021-08-09
+CD Mirandés,LaLiga SmartBank,67,66,68,67,2021-08-09
+FC Sochaux-Montbéliard,Ligue 2 BKT,67,66,67,67,2021-08-09
+Kashiwa Reysol,Meiji Yasuda J1,67,66,66,67,2021-08-09
+Jagiellonia Białystok,PKO Ekstraklasa,67,66,65,67,2021-08-09
+Shimizu S-Pulse,Meiji Yasuda J1,67,66,65,67,2021-08-09
+AD Alcorcón,LaLiga SmartBank,67,65,67,67,2021-08-09
+Grenoble Foot 38,Ligue 2 BKT,66,68,68,67,2021-08-09
+Djurgårdens IF,Sweden Allsvenskan (1),66,68,67,67,2021-08-09
+Hammarby IF,Sweden Allsvenskan (1),66,68,67,67,2021-08-09
+Club Atlético Aldosivi,LPF,66,67,69,67,2021-08-09
+FC Lugano,RSL,66,67,66,67,2021-08-09
+Oceânico FC,Liga do Brasil,66,66,68,67,2021-08-09
+AIK,Sweden Allsvenskan (1),65,68,68,67,2021-08-09
+Suwon Samsung Bluewings,K League 1,65,68,67,67,2021-08-09
+América de Cali,Libertadores,65,68,64,67,2021-08-09
+Wycombe Wanderers,EFL Championship,65,66,68,67,2021-08-09
+Patronato,LPF,65,66,66,67,2021-08-09
+Clermont Foot 63,Ligue 2 BKT,64,68,68,67,2021-08-09
+Paris FC,Ligue 2 BKT,64,67,68,67,2021-08-09
+FK Bodø/Glimt,Eliteserien,62,67,68,67,2021-08-09
+Valenciennes FC,Ligue 2 BKT,62,67,66,67,2021-08-09
+Denizlispor,Süper Lig,61,68,66,67,2021-08-09
+Pogoń Szczecin,PKO Ekstraklasa,61,67,65,67,2021-08-09
+Al Taawoun,MBS Pro League,73,67,65,66,2021-08-09
+Henan Jianye FC,CSL,71,65,64,66,2021-08-09
+Shenzhen Kaisa,CSL,70,65,63,66,2021-08-09
+IFK Norrköping,Sweden Allsvenskan (1),69,69,64,66,2021-08-09
+Deportivo La Guaira,Libertadores,69,66,64,66,2021-08-09
+Al Raed,MBS Pro League,69,66,64,66,2021-08-09
+Lechia Gdańsk,PKO Ekstraklasa,69,65,66,66,2021-08-09
+Peterborough United,EFL League One,68,66,66,66,2021-08-09
+Deportes Antofagasta,Sudamericana,68,66,65,66,2021-08-09
+Rodez Aveyron Football,Ligue 2 BKT,68,66,65,66,2021-08-09
+Chamois Niortais FC,Ligue 2 BKT,68,66,64,66,2021-08-09
+FC Ingolstadt 04,3. Liga,68,65,66,66,2021-08-09
+CE Sabadell FC,LaLiga SmartBank,68,65,66,66,2021-08-09
+Sunderland,EFL League One,68,65,65,66,2021-08-09
+Raków Częstochowa,PKO Ekstraklasa,67,67,66,66,2021-08-09
+Havre AC,Ligue 2 BKT,67,67,66,66,2021-08-09
+Al Faisaly,MBS Pro League,67,66,65,66,2021-08-09
+Club Deportivo Jorge Wilstermann,Sudamericana,67,66,65,66,2021-08-09
+TSV Prolactal Hartberg,Ö. Bundesliga,67,66,65,66,2021-08-09
+Odense Boldklub,3F Superliga,67,65,66,66,2021-08-09
+Vegalta Sendai,Meiji Yasuda J1,67,65,65,66,2021-08-09
+Viking FK,Eliteserien,67,65,63,66,2021-08-09
+Yokohama FC,Meiji Yasuda J1,67,63,64,66,2021-08-09
+Ettifaq FC,MBS Pro League,66,68,63,66,2021-08-09
+Albacete Balompié,LaLiga SmartBank,66,67,65,66,2021-08-09
+Guaireña FC,Sudamericana,66,66,66,66,2021-08-09
+Heracles Almelo,Eredivisie,66,66,65,66,2021-08-09
+Portsmouth,EFL League One,66,66,65,66,2021-08-09
+Hokkaido Consadole Sapporo,Meiji Yasuda J1,66,65,68,66,2021-08-09
+Incheon United FC,K League 1,66,65,67,66,2021-08-09
+SG Dynamo Dresden,3. Liga,66,65,67,66,2021-08-09
+Cracovia,PKO Ekstraklasa,66,65,64,66,2021-08-09
+Charlton Athletic,EFL League One,66,65,64,66,2021-08-09
+FC Würzburger Kickers,Bundesliga 2,65,66,66,66,2021-08-09
+RKC Waalwijk,Eredivisie,65,66,66,66,2021-08-09
+ADO Den Haag,Eredivisie,65,66,65,66,2021-08-09
+FC St. Gallen 1879,RSL,64,71,64,66,2021-08-09
+Aalborg BK,3F Superliga,64,68,66,66,2021-08-09
+Universidad Técnica de Cajamarca,Sudamericana,64,67,64,66,2021-08-09
+BK Häcken,Sweden Allsvenskan (1),64,66,68,66,2021-08-09
+Pohang Steelers,K League 1,64,65,67,66,2021-08-09
+FC Viitorul Constanța,Liga I,63,66,66,66,2021-08-09
+Sangju Sangmu FC,K League 1,63,64,67,66,2021-08-09
+Wisła Kraków,PKO Ekstraklasa,63,64,65,66,2021-08-09
+Aberdeen,Scottish Prem,60,67,65,66,2021-08-09
+FC Zürich,RSL,60,67,64,66,2021-08-09
+Wuhan Zall Professional FC,CSL,71,62,66,65,2021-08-09
+TSV 1860 München,3. Liga,68,65,66,65,2021-08-09
+12 de Octubre FC,Sudamericana,68,65,64,65,2021-08-09
+Melbourne City,A-League,68,64,65,65,2021-08-09
+Al Fateh,MBS Pro League,67,65,64,65,2021-08-09
+Daegu FC,K League 1,67,65,64,65,2021-08-09
+Independiente Santa Fe,Libertadores,67,65,63,65,2021-08-09
+Western United FC,A-League,67,65,62,65,2021-08-09
+Guabirá,Sudamericana,67,64,65,65,2021-08-09
+FC Flyeralarm Admira,Ö. Bundesliga,67,63,65,65,2021-08-09
+FC Lausanne-Sport,RSL,66,66,63,65,2021-08-09
+Montevideo City Torque,Sudamericana,66,65,66,65,2021-08-09
+Metropolitanos FC,Sudamericana,66,65,65,65,2021-08-09
+Pau FC,Ligue 2 BKT,66,65,65,65,2021-08-09
+WSG Swarovski Tirol,Ö. Bundesliga,66,65,65,65,2021-08-09
+SV Guntamatic Ried,Ö. Bundesliga,66,65,65,65,2021-08-09
+Ipswich Town,EFL League One,66,65,65,65,2021-08-09
+CD Cobresal,Sudamericana,66,65,64,65,2021-08-09
+Górnik Zabrze,PKO Ekstraklasa,66,65,64,65,2021-08-09
+1. FC Kaiserslautern,3. Liga,66,65,64,65,2021-08-09
+GwangJu FC,K League 1,66,65,63,65,2021-08-09
+Perth Glory,A-League,66,65,63,65,2021-08-09
+spusu SKN St. Pölten,Ö. Bundesliga,66,64,65,65,2021-08-09
+Shonan Bellmare,Meiji Yasuda J1,66,64,63,65,2021-08-09
+La Equidad,Sudamericana,65,67,63,65,2021-08-09
+SC Rheindorf Altach,Ö. Bundesliga,65,66,66,65,2021-08-09
+Oxford United,EFL League One,65,66,65,65,2021-08-09
+Abha Club,MBS Pro League,65,66,63,65,2021-08-09
+AFC Astra Giurgiu,Liga I,65,65,66,65,2021-08-09
+Piast Gliwice,PKO Ekstraklasa,65,65,66,65,2021-08-09
+FC Hansa Rostock,3. Liga,65,65,66,65,2021-08-09
+Carlos A. Mannucci,Sudamericana,65,65,65,65,2021-08-09
+FBC Melgar,Sudamericana,65,65,65,65,2021-08-09
+USL Dunkerque,Ligue 2 BKT,65,65,65,65,2021-08-09
+SV Waldhof Mannheim 07,3. Liga,65,65,65,65,2021-08-09
+AS Nancy Lorraine,Ligue 2 BKT,65,65,65,65,2021-08-09
+SK Brann,Eliteserien,65,65,65,65,2021-08-09
+Livingston FC,Scottish Prem,65,65,64,65,2021-08-09
+Śląsk Wrocław,PKO Ekstraklasa,65,65,61,65,2021-08-09
+Oita Trinita,Meiji Yasuda J1,65,64,65,65,2021-08-09
+Blackpool,EFL League One,65,64,65,65,2021-08-09
+SønderjyskE,3F Superliga,65,64,65,65,2021-08-09
+Fleetwood Town,EFL League One,65,64,64,65,2021-08-09
+Wellington Phoenix,A-League,65,64,63,65,2021-08-09
+IF Elfsborg,Sweden Allsvenskan (1),64,67,65,65,2021-08-09
+Sport Huancayo,Sudamericana,64,67,64,65,2021-08-09
+Lincoln City,EFL League One,64,66,64,65,2021-08-09
+Al Batin,MBS Pro League,64,66,63,65,2021-08-09
+Doncaster Rovers,EFL League One,64,66,62,65,2021-08-09
+Club Always Ready,Libertadores,64,65,66,65,2021-08-09
+Sagan Tosu,Meiji Yasuda J1,64,65,64,65,2021-08-09
+Viktoria Köln,3. Liga,64,65,64,65,2021-08-09
+SV Wehen Wiesbaden,3. Liga,64,65,64,65,2021-08-09
+Châteauroux,Ligue 2 BKT,64,65,64,65,2021-08-09
+Motherwell,Scottish Prem,64,65,62,65,2021-08-09
+Atlético Palmaflor,Sudamericana,64,64,64,65,2021-08-09
+Damac FC,MBS Pro League,64,64,64,65,2021-08-09
+FC Dinamo 1948,Liga I,63,67,64,65,2021-08-09
+St. Johnstone FC,Scottish Prem,63,65,65,65,2021-08-09
+Deportivo Pasto,Sudamericana,63,65,64,65,2021-08-09
+FC Nordsjælland,3F Superliga,63,65,63,65,2021-08-09
+Club Nacional,Sudamericana,63,64,65,65,2021-08-09
+Randers FC,3F Superliga,63,64,65,65,2021-08-09
+Al Ain (KSA),MBS Pro League,62,67,64,65,2021-08-09
+AFC Botoșani,Liga I,61,66,65,65,2021-08-09
+Rentistas,Libertadores,61,63,62,65,2021-08-09
+Zagłębie Lubin,PKO Ekstraklasa,57,66,62,65,2021-08-09
+Huachipato,Sudamericana,69,64,64,64,2021-08-09
+Al Qadisiyah,MBS Pro League,67,65,64,64,2021-08-09
+Gangwon FC,K League 1,67,63,65,64,2021-08-09
+Hallescher FC,3. Liga,67,63,64,64,2021-08-09
+Kilmarnock,Scottish Prem,66,65,63,64,2021-08-09
+Adelaide United,A-League,66,64,65,64,2021-08-09
+MSV Duisburg,3. Liga,66,64,63,64,2021-08-09
+Club Atlético Nacional Potosí,Sudamericana,66,63,63,64,2021-08-09
+Guayaquil City,Sudamericana,65,65,61,64,2021-08-09
+FC Academica Clinceni,Liga I,65,64,64,64,2021-08-09
+HJK Helsinki,Rest of World,65,64,64,64,2021-08-09
+Dundee United,Scottish Prem,65,64,64,64,2021-08-09
+SpVgg Unterhaching,3. Liga,65,64,63,64,2021-08-09
+Sportclub Verl,3. Liga,65,64,62,64,2021-08-09
+Burton Albion,EFL League One,65,63,65,64,2021-08-09
+Milton Keynes Dons,EFL League One,65,63,63,64,2021-08-09
+Strømsgodset IF,Eliteserien,65,62,64,64,2021-08-09
+Western Sydney Wanderers,A-League,64,67,60,64,2021-08-09
+Shrewsbury,EFL League One,64,65,64,64,2021-08-09
+Gaz Metan Mediaș,Liga I,64,65,63,64,2021-08-09
+St. Mirren,Scottish Prem,64,65,63,64,2021-08-09
+Crewe Alexandra,EFL League One,64,65,62,64,2021-08-09
+AFC Chindia Târgoviște,Liga I,64,64,64,64,2021-08-09
+FC Voluntari,Liga I,64,64,64,64,2021-08-09
+Accrington Stanley,EFL League One,64,64,64,64,2021-08-09
+Gillingham,EFL League One,64,64,64,64,2021-08-09
+Plymouth Argyle,EFL League One,64,64,63,64,2021-08-09
+Wigan Athletic,EFL League One,64,64,63,64,2021-08-09
+Seongnam FC,K League 1,64,64,63,64,2021-08-09
+Odds BK,Eliteserien,64,63,65,64,2021-08-09
+Türkgücü München,3. Liga,64,63,63,64,2021-08-09
+1. FC Saarbrücken,3. Liga,64,63,63,64,2021-08-09
+Örebro SK,Sweden Allsvenskan (1),64,63,61,64,2021-08-09
+Bristol Rovers,EFL League One,64,62,64,64,2021-08-09
+Stabæk Fotball,Eliteserien,64,62,64,64,2021-08-09
+Sepsi OSK Sf. Gheorghe,Liga I,63,64,64,64,2021-08-09
+Wisła Płock,PKO Ekstraklasa,63,64,64,64,2021-08-09
+Vålerenga Fotball,Eliteserien,63,64,64,64,2021-08-09
+SV Meppen,3. Liga,63,63,64,64,2021-08-09
+Lyngby BK,3F Superliga,63,62,64,64,2021-08-09
+Club River Plate Asunción,Sudamericana,63,61,64,64,2021-08-09
+KFC Uerdingen 05,3. Liga,62,64,65,64,2021-08-09
+Kristiansund BK,Eliteserien,62,64,64,64,2021-08-09
+Sarpsborg 08,Eliteserien,62,64,64,64,2021-08-09
+FC Chambly Oise,Ligue 2 BKT,62,63,63,64,2021-08-09
+Centro Atlético Fénix,Sudamericana,61,63,62,64,2021-08-09
+Vejle Boldklub,3F Superliga,59,64,64,64,2021-08-09
+Guangzhou R&F FC,CSL,57,66,61,64,2021-08-09
+Dalian Professional Football Club,CSL,76,63,63,63,2021-08-09
+FC Argeș Pitești,Liga I,66,63,63,63,2021-08-09
+FC Bayern München II,3. Liga,65,64,61,63,2021-08-09
